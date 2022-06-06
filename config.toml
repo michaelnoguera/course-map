@@ -1,5 +1,0 @@
-baseURL = 'https://noguera.dev/course-map'
-languageCode = 'en-us'
-title = 'UW-Madison Course Maps'
-
-enableEmoji = true
