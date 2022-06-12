@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-372 472 1213 152">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <style> * { font-family: sans-serif; } </style>
+  </defs>
+  <g id="spanish-embed" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
+    <title>spanish-embed</title>
+    <g id="spanish-embed_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_70">
+        <title>Course</title>
+        <g id="Graphic_75">
+          <rect x="-356" y="494" width="200" height="25" fill="white"/>
+          <rect x="-356" y="494" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_74">
+          <title>Number</title>
+          <text transform="translate(-354 503.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="13.001164" y="12">101</tspan>
+          </text>
+        </g>
+        <g id="Graphic_73">
+          <title>Title</title>
+          <rect x="-306" y="494" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-304 500.5)" fill="black">
+            <tspan font-size="10" fill="black" x="5.208807" y="10">First-Semester Spanish</tspan>
+          </text>
+        </g>
+        <g id="Graphic_72">
+          <title>Credits</title>
+          <rect x="-181" y="494" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-179 499)" fill="black">
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_71">
+          <text transform="translate(-354 495.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_64">
+        <title>Course</title>
+        <g id="Graphic_69">
+          <rect x="-106" y="494" width="200" height="25" fill="white"/>
+          <rect x="-106" y="494" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_68">
+          <title>Number</title>
+          <text transform="translate(-104 503.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="12.157414" y="12">102</tspan>
+          </text>
+        </g>
+        <g id="Graphic_67">
+          <title>Title</title>
+          <rect x="-56" y="494" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-54 494.5)" fill="black">
+            <tspan font-size="10" fill="black" x="17.758523" y="10">Second-Semester </tspan>
+            <tspan font-size="10" fill="black" x="41.764205" y="22">Spanish</tspan>
+          </text>
+        </g>
+        <g id="Graphic_66">
+          <title>Credits</title>
+          <rect x="69" y="494" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(71 499)" fill="black">
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_65">
+          <text transform="translate(-104 495.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_58">
+        <title>Course</title>
+        <g id="Graphic_63">
+          <rect x="-356" y="569" width="200" height="25" fill="white"/>
+          <rect x="-356" y="569" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_62">
+          <title>Number</title>
+          <text transform="translate(-354 578.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.136391" y="12">203</tspan>
+          </text>
+        </g>
+        <g id="Graphic_61">
+          <title>Title</title>
+          <rect x="-306" y="569" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-304 575.5)" fill="black">
+            <tspan font-size="10" fill="black" x="3.291193" y="10">Third-Semester Spanish</tspan>
+          </text>
+        </g>
+        <g id="Graphic_60">
+          <title>Credits</title>
+          <rect x="-181" y="569" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-179 574)" fill="black">
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_59">
+          <text transform="translate(-354 570.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_52">
+        <title>Course</title>
+        <g id="Graphic_57">
+          <rect x="-106" y="569" width="200" height="25" fill="white"/>
+          <rect x="-106" y="569" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_56">
+          <title>Number</title>
+          <text transform="translate(-104 578.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.025598" y="12">204</tspan>
+          </text>
+        </g>
+        <g id="Graphic_55">
+          <title>Title</title>
+          <rect x="-56" y="569" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-54 569.5)" fill="black">
+            <tspan font-size="10" fill="black" x="20.180398" y="10">Fourth-Semester </tspan>
+            <tspan font-size="10" fill="black" x="39.264205" y="22">Spanish*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_54">
+          <title>Credits</title>
+          <rect x="69" y="569" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(71 574)" fill="black">
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_53">
+          <text transform="translate(-104 570.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_46">
+        <title>Course</title>
+        <g id="Graphic_51">
+          <rect x="389" y="473" width="200" height="25" fill="white"/>
+          <rect x="389" y="473" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_50">
+          <title>Number</title>
+          <text transform="translate(391 482.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.485813" y="12">223</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <title>Title</title>
+          <rect x="439" y="473" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(441 473.5)" fill="black">
+            <tspan font-size="10" fill="black" x="4.1079545" y="10">Introduction to Hispanic </tspan>
+            <tspan font-size="10" fill="black" x="40.74858" y="22">Cultures</tspan>
+          </text>
+        </g>
+        <g id="Graphic_48">
+          <title>Credits</title>
+          <rect x="564" y="473" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(566 478)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_47">
+          <text transform="translate(391 474.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_40">
+        <title>Course</title>
+        <g id="Graphic_45">
+          <rect x="389" y="511" width="200" height="25" fill="white"/>
+          <rect x="389" y="511" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_44">
+          <title>Number</title>
+          <text transform="translate(391 520.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.468771" y="12">224</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <title>Title</title>
+          <rect x="439" y="511" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(441 511.5)" fill="black">
+            <tspan font-size="10" fill="black" x="4.1079545" y="10">Introduction to Hispanic </tspan>
+            <tspan font-size="10" fill="black" x="32.59517" y="22">Literatures*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_42">
+          <title>Credits</title>
+          <rect x="564" y="511" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(566 516)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_41">
+          <text transform="translate(391 512.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_34">
+        <title>Course</title>
+        <g id="Graphic_39">
+          <rect x="144" y="569" width="200" height="25" fill="white"/>
+          <rect x="144" y="569" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_38">
+          <title>Number</title>
+          <text transform="translate(146 578.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.480703" y="12">226</tspan>
+          </text>
+        </g>
+        <g id="Graphic_37">
+          <title>Title</title>
+          <rect x="194" y="569" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(196 569.5)" fill="black">
+            <tspan font-size="10" fill="black" x="5.9261364" y="10">Intermediate Language </tspan>
+            <tspan font-size="10" fill="black" x="34.541193" y="22">Practice…*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_36">
+          <title>Credits</title>
+          <rect x="319" y="569" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(321 574)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_35">
+          <text transform="translate(146 570.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_28">
+        <title>Course</title>
+        <g id="Graphic_33">
+          <rect x="389" y="596" width="200" height="25" fill="white"/>
+          <rect x="389" y="596" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_32">
+          <title>Number</title>
+          <text transform="translate(391 605.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.574453" y="12">225</tspan>
+          </text>
+        </g>
+        <g id="Graphic_31">
+          <title>Title</title>
+          <rect x="439" y="596" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(441 596.5)" fill="black">
+            <tspan font-size="10" fill="black" x="11.714489" y="10">Lying, Swearing, and </tspan>
+            <tspan font-size="10" fill="black" x="12.389205" y="22">Breaking the Rules…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_30">
+          <title>Credits</title>
+          <rect x="564" y="596" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(566 601)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_29">
+          <text transform="translate(391 597.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_22">
+        <title>Course</title>
+        <g id="Graphic_27">
+          <rect x="639" y="569" width="200" height="25" fill="white"/>
+          <rect x="639" y="569" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_26">
+          <title>Number</title>
+          <text transform="translate(641 578.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="13.173313" y="12">311</tspan>
+          </text>
+        </g>
+        <g id="Graphic_25">
+          <title>Title</title>
+          <rect x="689" y="569" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(691 569.5)" fill="black">
+            <tspan font-size="10" fill="black" x="12.069602" y="10">Advanced Language </tspan>
+            <tspan font-size="10" fill="black" x="41.146307" y="22">Practice</tspan>
+          </text>
+        </g>
+        <g id="Graphic_24">
+          <title>Credits</title>
+          <rect x="814" y="569" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(816 574)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_23">
+          <text transform="translate(641 570.5)" fill="black">
+            <tspan font-size="8" fill="black" x="5.9204545" y="8">SPANISH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_21">
+        <line x1="344" y1="581.5" x2="380.5108" y2="603.4065" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_20">
+        <line x1="344" y1="581.5" x2="384.7981" y2="494.46404" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <line x1="344" y1="581.5" x2="382.93133" y2="531.32184" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="-156" y1="581.5" x2="-115.9" y2="581.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <line x1="-156" y1="506.5" x2="-115.9" y2="506.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="344" y1="581.5" x2="629.1" y2="581.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(145 597)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">*credit given for AP Spanish Language &amp; </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">Culture (5)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(390 539)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">*credit given for AP Spanish Literature (4-5)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(-105 597)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">*credit given for AP Spanish Language &amp; </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">Culture (3-4) or Literature (3)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(391 553)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">Note: 223, 224, 225 can be taken at the </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">same time as 226</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <text transform="translate(-355 479)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">0 retrocredits for 4 total</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <text transform="translate(-105 479)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">4 retrocredits for 8 total</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(-355 554)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">8 retrocredits for 12 total</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(-105 554)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">12 retrocredits for 16 total</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <text transform="translate(145 541)" fill="black">
+          <tspan font-weight="bold" font-size="10" fill="black" x="0" y="10">223</tspan>
+          <tspan font-size="10" fill="black" y="10">, </tspan>
+          <tspan font-weight="bold" font-size="10" fill="black" y="10">224</tspan>
+          <tspan font-size="10" fill="black" y="10">, </tspan>
+          <tspan font-weight="bold" font-size="10" fill="black" y="10">225</tspan>
+          <tspan font-size="10" fill="black" y="10">, </tspan>
+          <tspan font-weight="bold" font-size="10" fill="black" y="10">226</tspan>
+          <tspan font-size="10" fill="black" y="10">, or </tspan>
+          <tspan font-weight="bold" font-size="10" fill="black" y="10">311</tspan>
+          <tspan font-size="10" fill="black" y="10">: 16 retroactive </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">credits granted, so 19 total</tspan>
+        </text>
+      </g>
+      <g id="Line_4">
+        <path d="M 94 506 L 109 506 L 109 536 L -370.9 536 L -370.9 581.5 L -365.9 581.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_3">
+        <line x1="94" y1="581.5" x2="134.1" y2="581.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <text transform="translate(650 610)" fill="#a5a5a5">
+          <tspan font-size="5" fill="#a5a5a5" x="0" y="5">© 2022 Michael Noguera, CC-BY-NC-SA 4.0, https://noguera.dev/course-map</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
