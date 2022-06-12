@@ -1,7 +1,7 @@
 ---
 title: "UW CS Course Map"
 date: 2022-06-05
-meta_img: "maps/freshmen-embed.jpg"
+meta_img: "/maps/freshmen-embed.jpg"
 description: "An unofficial flowchart of introductory CS courses at UW-Madison."
 ---
 [Github](https://github.com/michaelnoguera/course-map) | [CS B.S. Requirements](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/#requirementstext) | [CS&E](https://enroll.wisc.edu) ([Public](https://public.enroll.wisc.edu))

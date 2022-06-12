@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'UW-Madison Course Maps'
 
 enableEmoji = true
+disableKinds = ['taxonomy', 'term', 'sitemap', 'RSS']
