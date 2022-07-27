@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-372 472 1213 152">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-372 472 1213 154">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
@@ -9,8 +9,9 @@
     </marker>
     <style> * { font-family: sans-serif; } </style>
   </defs>
-  <g id="spanish-embed" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
+  <g id="spanish-embed" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>spanish-embed</title>
+    <rect fill="white" x="-372" y="472" width="1213" height="154"/>
     <g id="spanish-embed_Layer_1">
       <title>Layer 1</title>
       <g id="Group_70">
@@ -391,8 +392,8 @@
         <line x1="94" y1="581.5" x2="134.1" y2="581.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Graphic_2">
-        <text transform="translate(650 610)" fill="#a5a5a5">
-          <tspan font-size="5" fill="#a5a5a5" x="0" y="5">© 2022 Michael Noguera, CC-BY-NC-SA 4.0, https://noguera.dev/course-map</tspan>
+        <text transform="translate(650 615)" fill="black">
+          <tspan font-size="5" fill="black" x="0" y="5">© 2022 Michael Noguera, CC-BY-NC-SA 4.0, https://noguera.dev/course-map</tspan>
         </text>
       </g>
     </g>

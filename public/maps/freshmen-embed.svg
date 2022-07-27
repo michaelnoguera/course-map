@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="-5 37 1145 759">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-5 22 1145 774">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
         <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
-      <style> * { font-family: sans-serif; } </style>
     </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <style> * { font-family: sans-serif; } </style>
   </defs>
-  <g id="freshmen-embed" fill="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1" stroke="none">
+  <g id="freshmen-embed" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
     <title>freshmen-embed</title>
+    <rect fill="white" x="-5" y="22" width="1145" height="774"/>
     <g id="freshmen-embed_Courses">
       <title>Courses</title>
       <g id="Group_899">
@@ -553,64 +559,64 @@
       <g id="Group_176">
         <title>Course</title>
         <g id="Graphic_188">
-          <rect x="300" y="605" width="200" height="25" fill="white"/>
-          <rect x="300" y="605" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="300" y="630" width="200" height="25" fill="white"/>
+          <rect x="300" y="630" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_186">
           <title>Number</title>
-          <text transform="translate(302 614.5)" fill="#003776">
-            <tspan font-weight="bold" font-size="12" fill="#003776" x="7.459705" y="12">340*</tspan>
+          <text transform="translate(302 639.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="7.459705" y="12">340*</tspan>
           </text>
         </g>
         <g id="Graphic_185">
           <title>Title</title>
-          <rect x="350" y="605" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(352 610)" fill="black">
+          <rect x="350" y="630" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 635)" fill="black">
             <tspan font-size="12" fill="black" x="19.420455" y="12">Linear Algebra</tspan>
           </text>
         </g>
         <g id="Graphic_180">
           <title>Credits</title>
-          <rect x="475" y="605" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(477 610)" fill="black">
+          <rect x="475" y="630" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 635)" fill="black">
             <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_179">
-          <text transform="translate(302 606.5)" fill="#003776">
-            <tspan font-size="8" fill="#003776" x="11.551136" y="8">MATH</tspan>
+          <text transform="translate(302 631.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="11.551136" y="8">MATH</tspan>
           </text>
         </g>
       </g>
       <g id="Group_318">
         <title>Course</title>
         <g id="Graphic_328">
-          <rect x="600" y="100" width="200" height="25" fill="white"/>
-          <rect x="600" y="100" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="600" y="85" width="200" height="25" fill="white"/>
+          <rect x="600" y="85" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_322">
           <title>Number</title>
-          <text transform="translate(602 109.5)" fill="#b34400">
+          <text transform="translate(602 94.5)" fill="#b34400">
             <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.39718" y="12">352</tspan>
           </text>
         </g>
         <g id="Graphic_321">
           <title>Title</title>
-          <rect x="650" y="100" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(652 100.5)" fill="black">
+          <rect x="650" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(652 85.5)" fill="black">
             <tspan font-size="10" fill="black" x="26.62216" y="10">Digital System </tspan>
             <tspan font-size="10" fill="black" x="27.360795" y="22">Fundamentals</tspan>
           </text>
         </g>
         <g id="Graphic_320">
           <title>Credits</title>
-          <rect x="775" y="100" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(777 105)" fill="black">
+          <rect x="775" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(777 90)" fill="black">
             <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_319">
-          <text transform="translate(602 101.5)" fill="#b34400">
+          <text transform="translate(602 86.5)" fill="#b34400">
             <tspan font-size="8" fill="#b34400" x="8.420455" y="8">ECE/CS</tspan>
           </text>
         </g>
@@ -703,8 +709,8 @@
           </g>
           <g id="Graphic_193">
             <title>Number</title>
-            <text transform="translate(11 609.5)" fill="#003776">
-              <tspan font-weight="bold" font-size="12" fill="#003776" x="11.427106" y="12">234</tspan>
+            <text transform="translate(11 609.5)" fill="#005c5d">
+              <tspan font-weight="bold" font-size="12" fill="#005c5d" x="11.427106" y="12">234</tspan>
             </text>
           </g>
           <g id="Graphic_192">
@@ -722,8 +728,8 @@
             </text>
           </g>
           <g id="Graphic_190">
-            <text transform="translate(11 601.5)" fill="#003776">
-              <tspan font-size="8" fill="#003776" x="11.780495" y="8">MATH</tspan>
+            <text transform="translate(11 601.5)" fill="#005c5d">
+              <tspan font-size="8" fill="#005c5d" x="11.780495" y="8">MATH</tspan>
             </text>
           </g>
         </g>
@@ -1111,31 +1117,31 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Group_750">
         <title>Course</title>
         <g id="Graphic_760">
-          <rect x="600" y="50" width="200" height="25" fill="white"/>
-          <rect x="600" y="50" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="600" y="35" width="200" height="25" fill="white"/>
+          <rect x="600" y="35" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_754">
           <title>Number</title>
-          <text transform="translate(602 59.5)" fill="#b34400">
+          <text transform="translate(602 44.5)" fill="#b34400">
             <tspan font-weight="bold" font-size="12" fill="#b34400" x="10.959118" y="12">330</tspan>
           </text>
         </g>
         <g id="Graphic_753">
           <title>Title</title>
-          <rect x="650" y="50" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(652 56.5)" fill="black">
+          <rect x="650" y="35" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(652 41.5)" fill="black">
             <tspan font-size="10" fill="black" x="11.622159" y="10">Signals and Systems</tspan>
           </text>
         </g>
         <g id="Graphic_752">
           <title>Credits</title>
-          <rect x="775" y="50" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(777 55)" fill="black">
+          <rect x="775" y="35" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(777 40)" fill="black">
             <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_751">
-          <text transform="translate(602 51.5)" fill="#b34400">
+          <text transform="translate(602 36.5)" fill="#b34400">
             <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
@@ -1143,32 +1149,32 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Group_762">
         <title>Course</title>
         <g id="Graphic_772">
-          <rect x="300" y="50" width="200" height="25" fill="white"/>
-          <rect x="300" y="50" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="300" y="35" width="200" height="25" fill="white"/>
+          <rect x="300" y="35" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_766">
           <title>Number</title>
-          <text transform="translate(302 59.5)" fill="#b34400">
+          <text transform="translate(302 44.5)" fill="#b34400">
             <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12">203</tspan>
           </text>
         </g>
         <g id="Graphic_765">
           <title>Title</title>
-          <rect x="350" y="50" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(352 50.5)" fill="black">
+          <rect x="350" y="35" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 35.5)" fill="black">
             <tspan font-size="10" fill="black" x="12.46733" y="10">Signals, Information,</tspan>
             <tspan font-size="10" fill="black" x="25.428977" y="22">&amp; Computation</tspan>
           </text>
         </g>
         <g id="Graphic_764">
           <title>Credits</title>
-          <rect x="475" y="50" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(477 55)" fill="black">
+          <rect x="475" y="35" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 40)" fill="black">
             <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_763">
-          <text transform="translate(302 51.5)" fill="#b34400">
+          <text transform="translate(302 36.5)" fill="#b34400">
             <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
@@ -1176,31 +1182,31 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Group_878">
         <title>Course</title>
         <g id="Graphic_883">
-          <rect x="300" y="100" width="200" height="25" fill="white"/>
-          <rect x="300" y="100" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="300" y="85" width="200" height="25" fill="white"/>
+          <rect x="300" y="85" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_882">
           <title>Number</title>
-          <text transform="translate(302 109.5)" fill="#b34400">
+          <text transform="translate(302 94.5)" fill="#b34400">
             <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12">230</tspan>
           </text>
         </g>
         <g id="Graphic_881">
           <title>Title</title>
-          <rect x="350" y="100" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(352 106.5)" fill="black">
+          <rect x="350" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 91.5)" fill="black">
             <tspan font-size="10" fill="black" x="24.28551" y="10">Circuit Analysis</tspan>
           </text>
         </g>
         <g id="Graphic_880">
           <title>Credits</title>
-          <rect x="475" y="100" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(477 105)" fill="black">
+          <rect x="475" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 90)" fill="black">
             <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
           </text>
         </g>
         <g id="Graphic_879">
-          <text transform="translate(302 101.5)" fill="#b34400">
+          <text transform="translate(302 86.5)" fill="#b34400">
             <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
@@ -1208,31 +1214,31 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Group_890">
         <title>Course</title>
         <g id="Graphic_895">
-          <rect x="10" y="100" width="200" height="25" fill="white"/>
-          <rect x="10" y="100" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="10" y="85" width="200" height="25" fill="white"/>
+          <rect x="10" y="85" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_894">
           <title>Number</title>
-          <text transform="translate(12 109.5)" fill="#b34400">
+          <text transform="translate(12 94.5)" fill="#b34400">
             <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.313664" y="12">202</tspan>
           </text>
         </g>
         <g id="Graphic_893">
           <title>Title</title>
-          <rect x="60" y="100" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(62 106.5)" fill="black">
+          <rect x="60" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(62 91.5)" fill="black">
             <tspan font-size="10" fill="black" x="9.328125" y="10">General Physics: E&amp;M</tspan>
           </text>
         </g>
         <g id="Graphic_892">
           <title>Credits</title>
-          <rect x="185" y="100" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(187 105)" fill="black">
+          <rect x="185" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(187 90)" fill="black">
             <tspan font-size="12" fill="black" x="6.852273" y="12">5</tspan>
           </text>
         </g>
         <g id="Graphic_891">
-          <text transform="translate(12 101.5)" fill="#b34400">
+          <text transform="translate(12 86.5)" fill="#b34400">
             <tspan font-size="8" fill="#b34400" x="5.772727" y="8">PHYSICS</tspan>
           </text>
         </g>
@@ -1245,9 +1251,8 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <tspan font-size="10" fill="black" y="22"> and </tspan>
           <tspan font-size="10" fill="#310067" y="22">Calc II</tspan>
           <tspan font-size="10" fill="black" y="22"> (in any form)</tspan>
-          <tspan font-size="10" fill="black" x="0" y="34"> • At least 6 credits of “</tspan>
-          <tspan font-size="10" fill="#003776" y="34">math beyond Calculus</tspan>
-          <tspan font-size="10" fill="black" y="34">”</tspan>
+          <tspan font-size="10" fill="black" x="0" y="34"> • At least 6 credits of </tspan>
+          <tspan font-size="10" fill="#005c5d" y="34">math beyond Calculus</tspan>
           <tspan font-size="10" fill="black" x="0" y="58">Also, a single class cannot be used to meet more than </tspan>
           <tspan font-size="10" fill="black" x="0" y="70">one of the requirements. For example, Cryptography </tspan>
           <tspan font-size="10" fill="black" x="0" y="82">(Math/CS 435) can be used as either an advanced </tspan>
@@ -1265,7 +1270,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
         </text>
       </g>
       <g id="Graphic_903">
-        <text transform="translate(301 633)" fill="#003776">
+        <text transform="translate(301 658)" fill="#003776">
           <tspan font-size="10" fill="#003776" x="0" y="10">320</tspan>
           <tspan font-size="10" fill="black" y="10"> is both Linear Algebra and Differential </tspan>
           <tspan font-size="10" fill="black" x="0" y="22">equations in one semester, for engineers.</tspan>
@@ -1278,7 +1283,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
         </text>
       </g>
       <g id="Graphic_904">
-        <text transform="translate(10 47)" fill="black">
+        <text transform="translate(10 32)" fill="black">
           <tspan font-size="10" fill="black" x="0" y="10">These courses are marked in </tspan>
           <tspan font-size="10" fill="#b34400" y="10">orange</tspan>
           <tspan font-size="10" fill="black" y="10"> because they are </tspan>
@@ -1368,42 +1373,41 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Group_1000">
         <title>Course</title>
         <g id="Graphic_1005">
-          <rect x="300" y="510" width="200" height="25" fill="white"/>
-          <rect x="300" y="510" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="300" y="395" width="200" height="25" fill="white"/>
+          <rect x="300" y="395" width="200" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_1004">
           <title>Number</title>
-          <text transform="translate(302 519.5)" fill="#003776">
-            <tspan font-weight="bold" font-size="12" fill="#003776" x="12.14718" y="12">319</tspan>
+          <text transform="translate(302 404.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="12.14718" y="12">319</tspan>
           </text>
         </g>
         <g id="Graphic_1003">
           <title>Title</title>
-          <rect x="350" y="510" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(352 510.5)" fill="black">
-            <tspan font-size="10" fill="black" x="6.167614" y="10">Techniques in Ordinary </tspan>
-            <tspan font-size="10" fill="black" x="9.995739" y="22">Differential Equations</tspan>
+          <rect x="350" y="395" width="125" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 395.5)" fill="#666">
+            <tspan font-size="10" fill="#666" x="6.167614" y="10">Techniques in Ordinary </tspan>
+            <tspan font-size="10" fill="#666" x="9.995739" y="22">Differential Equations</tspan>
           </text>
         </g>
         <g id="Graphic_1002">
           <title>Credits</title>
-          <rect x="475" y="510" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(477 515)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          <rect x="475" y="395" width="25" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 400)" fill="#666">
+            <tspan font-size="12" fill="#666" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_1001">
-          <text transform="translate(302 511.5)" fill="#003776">
-            <tspan font-size="8" fill="#003776" x="11.551136" y="8">MATH</tspan>
+          <text transform="translate(302 396.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="11.551136" y="8">MATH</tspan>
           </text>
         </g>
       </g>
       <g id="Graphic_1007">
-        <text transform="translate(301 538)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10">This isn’t often listed with CS courses, </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22">but it is quite important in physics &amp; </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34">engineering, as well as relevant to some </tspan>
-          <tspan font-size="10" fill="black" x="0" y="46">CS specialties.</tspan>
+        <text transform="translate(301 423)" fill="#666">
+          <tspan font-size="10" fill="#666" x="0" y="10">Most people don’t take this, but it is quite </tspan>
+          <tspan font-size="10" fill="#666" x="0" y="22">important in physics &amp; engineering, as </tspan>
+          <tspan font-size="10" fill="#666" x="0" y="34">well as relevant to some CS specialties.</tspan>
         </text>
       </g>
       <g id="Graphic_1181">
@@ -1434,12 +1438,12 @@ https://math.wisc.edu/undergraduate/wes/</title>
         </text>
       </g>
       <g id="Graphic_1191">
-        <text transform="translate(865 495)" fill="#a5a5a5">
-          <tspan font-size="8" fill="#a5a5a5" x="0" y="8">by Michael Noguera (https://noguera.dev/course-map)</tspan>
+        <text transform="translate(865 495)" fill="black">
+          <tspan font-size="9" fill="black" x="0" y="9">by Michael Noguera (https://noguera.dev/course-map)</tspan>
         </text>
       </g>
       <g id="Graphic_1195">
-        <text transform="translate(10 130)" fill="black">
+        <text transform="translate(10 115)" fill="black">
           <tspan font-size="10" fill="black" x="0" y="10">To be clear, you don’t have to take these classes, and </tspan>
           <tspan font-size="10" fill="black" x="0" y="22">most people don’t, unless they are interested in this area.</tspan>
         </text>
@@ -1525,8 +1529,8 @@ https://math.wisc.edu/undergraduate/wes/</title>
         </text>
       </g>
       <g id="Graphic_1307">
-        <text transform="translate(865 510)" fill="#a5a5a5">
-          <tspan font-size="5" fill="#a5a5a5" x="0" y="5">© 2022, CC-BY-NC-SA</tspan>
+        <text transform="translate(865 510)" fill="#666">
+          <tspan font-size="6" fill="#666" x="0" y="6">© 2022, CC-BY-NC-SA</tspan>
         </text>
       </g>
       <g id="Line_997">
@@ -1536,7 +1540,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="800" y1="222.5" x2="891.3255" y2="172.271" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_1008">
-        <line x1="210.83486" y1="537.5" x2="290.23718" y2="524.1424" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="537.5" x2="294.40032" y2="415.66416" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_1182">
         <line x1="148.42968" y1="266.37562" x2="290.4904" y2="225.25277" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -1566,13 +1570,13 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="800" y1="222.5" x2="890.1" y2="222.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_160">
-        <line x1="500" y1="222.5" x2="593.34054" y2="119.8254" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="222.5" x2="593.8155" y2="105.2306" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_174">
         <line x1="500" y1="277.5" x2="890.1" y2="277.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_339">
-        <line x1="210.83486" y1="537.5" x2="292.63118" y2="610.8886" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="537.5" x2="293.59182" y2="634.9538" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_340">
         <line x1="109.91743" y1="550" x2="109.91743" y2="590.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -1587,16 +1591,16 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="109.91743" y1="475" x2="109.91743" y2="515.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_531">
-        <line x1="500" y1="617.5" x2="591.7944" y2="555.5388" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="592.7324" y2="556.7225" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_534">
         <line x1="500" y1="332.5" x2="595.86444" y2="541.00516" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_547">
-        <line x1="500" y1="617.5" x2="590.8081" y2="653.8232" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="590.2095" y2="656.0314" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_559">
-        <line x1="500" y1="617.5" x2="592.6414" y2="700.87725" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="591.6994" y2="702.1046" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_582">
         <line x1="500" y1="332.5" x2="593.5836" y2="442.46076" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
@@ -1605,19 +1609,104 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="800" y1="332.5" x2="891.3255" y2="282.271" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_774">
-        <line x1="500" y1="62.5" x2="590.1" y2="62.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="47.5" x2="590.1" y2="47.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_876">
-        <line x1="210.83486" y1="462.5" x2="297.84603" y2="72.16284" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="462.5" x2="297.9204" y2="57.17911" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_884">
-        <line x1="500" y1="112.5" x2="591.1452" y2="66.927415" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="97.5" x2="591.1452" y2="51.927415" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_888">
-        <line x1="210.83486" y1="537.5" x2="297.96723" y2="122.18906" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="537.5" x2="298.03375" y2="107.20278" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_896">
-        <line x1="210" y1="112.5" x2="290.1" y2="112.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210" y1="97.5" x2="290.1" y2="97.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_1308">
+        <title>Course</title>
+        <g id="Graphic_1313">
+          <rect x="300" y="510" width="200" height="25" fill="white"/>
+          <rect x="300" y="510" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1312">
+          <title>Number</title>
+          <text transform="translate(302 519.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="11.291498" y="12">324</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1311">
+          <title>Title</title>
+          <rect x="350" y="510" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 510.5)" fill="black">
+            <tspan font-size="10" fill="black" x="12.105114" y="10">Introductory Applied </tspan>
+            <tspan font-size="10" fill="black" x="5.9261364" y="22">Statistics for Engineers</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1310">
+          <title>Credits</title>
+          <rect x="475" y="510" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 515)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1309">
+          <text transform="translate(302 511.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="13.289773" y="8">STAT</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1314">
+        <text transform="translate(301 538)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">Popular for “math beyond calculus”. Does </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">not appear to count towards the Data </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">Science major.</tspan>
+        </text>
+      </g>
+      <g id="Line_1316">
+        <line x1="210.83486" y1="537.5" x2="290.23718" y2="524.1424" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_1317">
+        <title>Course</title>
+        <g id="Graphic_1322">
+          <rect x="25" y="155" width="200" height="25" fill="white"/>
+          <rect x="25" y="155" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1321">
+          <title>Number</title>
+          <text transform="translate(27 164.5)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="10.964241" y="12">200</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1320">
+          <title>Title</title>
+          <rect x="75" y="155" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(77 161.5)" fill="black">
+            <tspan font-size="10" fill="black" x="26.259943" y="10">Programming I</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1319">
+          <title>Credits</title>
+          <rect x="200" y="155" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(202 160)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1318">
+          <text transform="translate(27 156.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1323">
+        <text transform="translate(25 185)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">Does not count towards the major. If you have </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">no experience, take this. Roughly equivalent </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">to AP Computer Science A.</tspan>
+        </text>
+      </g>
+      <g id="Line_1325">
+        <path d="M 70.10441 280.39728 C 49.711443 279.75103 26.7654 275.2258 15 260 C -3.4581232 236.11302 12.255483 194.4986 20.59996 176.36733" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
     </g>
   </g>
