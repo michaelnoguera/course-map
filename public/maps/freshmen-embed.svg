@@ -14,7 +14,7 @@
     </marker>
     <style> * { font-family: sans-serif; } </style>
   </defs>
-  <g id="freshmen-embed" stroke="none" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1">
+  <g id="freshmen-embed" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
     <title>freshmen-embed</title>
     <rect fill="white" x="-5" y="22" width="1145" height="774"/>
     <g id="freshmen-embed_Courses">
@@ -1486,7 +1486,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="905" y="770" width="40" height="20" fill="white"/>
           <rect x="905" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(907 772.5)" fill="black">
-            <tspan font-size="12" fill="black" x="15.213068" y="12">1</tspan>
+            <tspan font-size="12" fill="black" x="14.181818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_1275">
@@ -1494,7 +1494,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="945" y="770" width="40" height="20" fill="white"/>
           <rect x="945" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(947 772.5)" fill="black">
-            <tspan font-size="12" fill="black" x="14.369318" y="12">2</tspan>
+            <tspan font-size="12" fill="black" x="7.798295" y="12">6-8</tspan>
           </text>
         </g>
         <g id="Graphic_1276">
@@ -1510,7 +1510,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="1025" y="770" width="40" height="20" fill="white"/>
           <rect x="1025" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1027 772.5)" fill="black">
-            <tspan font-size="12" fill="black" x="14.369318" y="12">2</tspan>
+            <tspan font-size="12" fill="black" x="7.798295" y="12">6-8</tspan>
           </text>
         </g>
         <g id="Graphic_1278">
@@ -1518,7 +1518,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="865" y="770" width="40" height="20" fill="white"/>
           <rect x="865" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(867 775)" fill="black">
-            <tspan font-size="8" fill="black" x=".05681818" y="8"># needed</tspan>
+            <tspan font-size="8" fill="black" x="1.4318182" y="8"># credits</tspan>
           </text>
         </g>
       </g>
