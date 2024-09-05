@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-5 22 1145 786">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-5 22 1145 774">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
@@ -14,16 +14,16 @@
     </marker>
     <style> * { font-family: sans-serif; } </style>
   </defs>
-  <g id="freshmen-embed" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
+  <g id="freshmen-embed" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none" fill-opacity="1">
     <title>freshmen-embed</title>
-    <rect fill="white" x="-5" y="22" width="1145" height="786"/>
+    <rect fill="white" x="-5" y="22" width="1145" height="774"/>
     <g id="freshmen-embed_Courses">
       <title>Courses</title>
       <g id="Group_899">
         <g id="Graphic_898">
           <rect x="291" y="180" width="518" height="179" fill="#ffffc0"/>
           <text transform="translate(300 185)" fill="black">
-            <tspan font-size="12" fill="black" x="0" y="12" xml:space="preserve">Basic Computer Science</tspan>
+            <tspan font-size="12" fill="black" x="0" y="12">Basic Computer Science</tspan>
           </text>
         </g>
         <g id="Group_50">
@@ -38,14 +38,14 @@
           <g id="Graphic_60">
             <title>Number</title>
             <text transform="translate(302 324.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="10.786968" y="12" xml:space="preserve">300</tspan>
+              <tspan font-weight="bold" font-size="12" fill="black" x="10.786968" y="12">300</tspan>
             </text>
           </g>
           <g id="Graphic_59">
             <title>Title</title>
             <rect x="350" y="315" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(352 321.5)" fill="black">
-              <tspan font-size="10" fill="black" x="24.93892" y="10" xml:space="preserve">Programming II</tspan>
+              <tspan font-size="10" fill="black" x="24.93892" y="10">Programming II</tspan>
             </text>
           </g>
           <g id="Graphic_58">
@@ -53,7 +53,7 @@
             <rect x="340" y="340" width="40" height="10" fill="white"/>
             <rect x="340" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(342 340)" fill="black">
-              <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+              <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
             </text>
           </g>
           <g id="Graphic_57">
@@ -61,7 +61,7 @@
             <rect x="380" y="340" width="40" height="10" fill="white"/>
             <rect x="380" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(382 340)" fill="black">
-              <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+              <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
             </text>
           </g>
           <g id="Graphic_56">
@@ -69,7 +69,7 @@
             <rect x="420" y="340" width="40" height="10" fill="white"/>
             <rect x="420" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(422 340)" fill="black">
-              <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+              <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
             </text>
           </g>
           <g id="Graphic_55">
@@ -77,19 +77,19 @@
             <rect x="460" y="340" width="40" height="10" fill="white"/>
             <rect x="460" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(462 340)" fill="black">
-              <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+              <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
             </text>
           </g>
           <g id="Graphic_54">
             <title>Credits</title>
             <rect x="475" y="315" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(477 320)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+              <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
             </text>
           </g>
           <g id="Graphic_53">
             <text transform="translate(302 316.5)" fill="black">
-              <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+              <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
             </text>
           </g>
           <g id="Graphic_52">
@@ -97,7 +97,7 @@
             <rect x="300" y="340" width="40" height="10" fill="#999"/>
             <rect x="300" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(302 340)" fill="black">
-              <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+              <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
             </text>
           </g>
         </g>
@@ -113,14 +113,14 @@
           <g id="Graphic_73">
             <title>Number</title>
             <text transform="translate(602 324.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="10.676176" y="12" xml:space="preserve">400</tspan>
+              <tspan font-weight="bold" font-size="12" fill="black" x="10.676176" y="12">400</tspan>
             </text>
           </g>
           <g id="Graphic_72">
             <title>Title</title>
             <rect x="650" y="315" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(652 321.5)" fill="black">
-              <tspan font-size="10" fill="black" x="23.617898" y="10" xml:space="preserve">Programming III</tspan>
+              <tspan font-size="10" fill="black" x="23.617898" y="10">Programming III</tspan>
             </text>
           </g>
           <g id="Graphic_71">
@@ -128,7 +128,7 @@
             <rect x="640" y="340" width="40" height="10" fill="white"/>
             <rect x="640" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(642 340)" fill="black">
-              <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+              <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
             </text>
           </g>
           <g id="Graphic_70">
@@ -136,7 +136,7 @@
             <rect x="680" y="340" width="40" height="10" fill="white"/>
             <rect x="680" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(682 340)" fill="black">
-              <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+              <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
             </text>
           </g>
           <g id="Graphic_69">
@@ -144,7 +144,7 @@
             <rect x="720" y="340" width="40" height="10" fill="white"/>
             <rect x="720" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(722 340)" fill="black">
-              <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+              <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
             </text>
           </g>
           <g id="Graphic_68">
@@ -152,19 +152,19 @@
             <rect x="760" y="340" width="40" height="10" fill="white"/>
             <rect x="760" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(762 340)" fill="black">
-              <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+              <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
             </text>
           </g>
           <g id="Graphic_67">
             <title>Credits</title>
             <rect x="775" y="315" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(777 320)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+              <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
             </text>
           </g>
           <g id="Graphic_66">
             <text transform="translate(602 316.5)" fill="black">
-              <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+              <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
             </text>
           </g>
           <g id="Graphic_65">
@@ -172,7 +172,7 @@
             <rect x="600" y="340" width="40" height="10" fill="#999"/>
             <rect x="600" y="340" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(602 340)" fill="black">
-              <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+              <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
             </text>
           </g>
         </g>
@@ -188,15 +188,15 @@
           <g id="Graphic_87">
             <title>Number</title>
             <text transform="translate(302 214.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="11.574453" y="12" xml:space="preserve">252</tspan>
+              <tspan font-weight="bold" font-size="12" fill="black" x="11.574453" y="12">252</tspan>
             </text>
           </g>
           <g id="Graphic_86">
             <title>Title</title>
             <rect x="350" y="205" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(352 205.5)" fill="black">
-              <tspan font-size="10" fill="black" x=".8977273" y="10" xml:space="preserve">Introduction to Computer </tspan>
-              <tspan font-size="10" fill="black" x="32.580966" y="22" xml:space="preserve">Engineering</tspan>
+              <tspan font-size="10" fill="black" x=".8977273" y="10">Introduction to Computer </tspan>
+              <tspan font-size="10" fill="black" x="32.580966" y="22">Engineering</tspan>
             </text>
           </g>
           <g id="Graphic_85">
@@ -204,7 +204,7 @@
             <rect x="340" y="230" width="40" height="10" fill="white"/>
             <rect x="340" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(342 230)" fill="black">
-              <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+              <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
             </text>
           </g>
           <g id="Graphic_84">
@@ -212,7 +212,7 @@
             <rect x="380" y="230" width="40" height="10" fill="white"/>
             <rect x="380" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(382 230)" fill="black">
-              <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+              <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
             </text>
           </g>
           <g id="Graphic_83">
@@ -220,7 +220,7 @@
             <rect x="420" y="230" width="40" height="10" fill="white"/>
             <rect x="420" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(422 230)" fill="black">
-              <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+              <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
             </text>
           </g>
           <g id="Graphic_82">
@@ -228,19 +228,19 @@
             <rect x="460" y="230" width="40" height="10" fill="white"/>
             <rect x="460" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(462 230)" fill="black">
-              <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+              <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
             </text>
           </g>
           <g id="Graphic_81">
             <title>Credits</title>
             <rect x="475" y="205" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(477 210)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+              <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
             </text>
           </g>
           <g id="Graphic_80">
             <text transform="translate(302 206.5)" fill="black">
-              <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+              <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
             </text>
           </g>
           <g id="Graphic_79">
@@ -248,7 +248,7 @@
             <rect x="300" y="230" width="40" height="10" fill="#999"/>
             <rect x="300" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(302 230)" fill="black">
-              <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+              <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
             </text>
           </g>
         </g>
@@ -264,15 +264,15 @@
           <g id="Graphic_100">
             <title>Number</title>
             <text transform="translate(602 214.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="11.109114" y="12" xml:space="preserve">354</tspan>
+              <tspan font-weight="bold" font-size="12" fill="black" x="11.109114" y="12">354</tspan>
             </text>
           </g>
           <g id="Graphic_99">
             <title>Title</title>
             <rect x="650" y="205" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(652 205.5)" fill="black">
-              <tspan font-size="10" fill="black" x="9.058239" y="10" xml:space="preserve">Machine Organization </tspan>
-              <tspan font-size="10" fill="black" x="18.731534" y="22" xml:space="preserve">and Programming</tspan>
+              <tspan font-size="10" fill="black" x="9.058239" y="10">Machine Organization </tspan>
+              <tspan font-size="10" fill="black" x="18.731534" y="22">and Programming</tspan>
             </text>
           </g>
           <g id="Graphic_98">
@@ -280,7 +280,7 @@
             <rect x="640" y="230" width="40" height="10" fill="white"/>
             <rect x="640" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(642 230)" fill="black">
-              <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+              <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
             </text>
           </g>
           <g id="Graphic_97">
@@ -288,7 +288,7 @@
             <rect x="680" y="230" width="40" height="10" fill="white"/>
             <rect x="680" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(682 230)" fill="black">
-              <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+              <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
             </text>
           </g>
           <g id="Graphic_96">
@@ -296,7 +296,7 @@
             <rect x="720" y="230" width="40" height="10" fill="white"/>
             <rect x="720" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(722 230)" fill="black">
-              <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+              <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
             </text>
           </g>
           <g id="Graphic_95">
@@ -304,19 +304,19 @@
             <rect x="760" y="230" width="40" height="10" fill="white"/>
             <rect x="760" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(762 230)" fill="black">
-              <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+              <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
             </text>
           </g>
           <g id="Graphic_94">
             <title>Credits</title>
             <rect x="775" y="205" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(777 210)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+              <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
             </text>
           </g>
           <g id="Graphic_93">
             <text transform="translate(602 206.5)" fill="black">
-              <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+              <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
             </text>
           </g>
           <g id="Graphic_92">
@@ -324,7 +324,7 @@
             <rect x="600" y="230" width="40" height="10" fill="#999"/>
             <rect x="600" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(602 230)" fill="black">
-              <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+              <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
             </text>
           </g>
         </g>
@@ -340,14 +340,14 @@
           <g id="Graphic_31">
             <title>Number</title>
             <text transform="translate(302 269.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="11.119348" y="12" xml:space="preserve">240</tspan>
+              <tspan font-weight="bold" font-size="12" fill="black" x="11.119348" y="12">240</tspan>
             </text>
           </g>
           <g id="Graphic_30">
             <title>Title</title>
             <rect x="350" y="260" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(352 266.5)" fill="black">
-              <tspan font-size="10" fill="black" x="27.424716" y="10" xml:space="preserve">Discrete Math</tspan>
+              <tspan font-size="10" fill="black" x="27.424716" y="10">Discrete Math</tspan>
             </text>
           </g>
           <g id="Graphic_29">
@@ -355,7 +355,7 @@
             <rect x="340" y="285" width="40" height="10" fill="white"/>
             <rect x="340" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(342 285)" fill="black">
-              <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+              <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
             </text>
           </g>
           <g id="Graphic_28">
@@ -363,7 +363,7 @@
             <rect x="380" y="285" width="40" height="10" fill="white"/>
             <rect x="380" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(382 285)" fill="black">
-              <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+              <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
             </text>
           </g>
           <g id="Graphic_27">
@@ -371,7 +371,7 @@
             <rect x="420" y="285" width="40" height="10" fill="white"/>
             <rect x="420" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(422 285)" fill="black">
-              <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+              <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
             </text>
           </g>
           <g id="Graphic_26">
@@ -379,19 +379,19 @@
             <rect x="460" y="285" width="40" height="10" fill="white"/>
             <rect x="460" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(462 285)" fill="black">
-              <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+              <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
             </text>
           </g>
           <g id="Graphic_25">
             <title>Credits</title>
             <rect x="475" y="260" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(477 265)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+              <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
             </text>
           </g>
           <g id="Graphic_24">
             <text transform="translate(302 261.5)" fill="black">
-              <tspan font-size="8" fill="black" x="4.664773" y="8" xml:space="preserve">MATH/CS</tspan>
+              <tspan font-size="8" fill="black" x="4.664773" y="8">MATH/CS</tspan>
             </text>
           </g>
           <g id="Graphic_23">
@@ -399,7 +399,7 @@
             <rect x="300" y="285" width="40" height="10" fill="#999"/>
             <rect x="300" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(302 285)" fill="black">
-              <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+              <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
             </text>
           </g>
         </g>
@@ -416,15 +416,15 @@
         <g id="Graphic_116">
           <title>Number</title>
           <text transform="translate(902 214.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.606839" y="12" xml:space="preserve">537</tspan>
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.606839" y="12">537</tspan>
           </text>
         </g>
         <g id="Graphic_115">
           <title>Title</title>
           <rect x="950" y="205" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(952 205.5)" fill="black">
-            <tspan font-size="10" fill="black" x="25.78409" y="10" xml:space="preserve">Introduction to</tspan>
-            <tspan font-size="10" fill="black" x="15.421875" y="22" xml:space="preserve">Operating Systems</tspan>
+            <tspan font-size="10" fill="black" x="25.78409" y="10">Introduction to</tspan>
+            <tspan font-size="10" fill="black" x="15.421875" y="22">Operating Systems</tspan>
           </text>
         </g>
         <g id="Graphic_114">
@@ -432,7 +432,7 @@
           <rect x="940" y="230" width="40" height="10" fill="white"/>
           <rect x="940" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(942 230)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_113">
@@ -440,7 +440,7 @@
           <rect x="980" y="230" width="40" height="10" fill="#999"/>
           <rect x="980" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(982 230)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_112">
@@ -448,7 +448,7 @@
           <rect x="1020" y="230" width="40" height="10" fill="white"/>
           <rect x="1020" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1022 230)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_111">
@@ -456,19 +456,19 @@
           <rect x="1060" y="230" width="40" height="10" fill="white"/>
           <rect x="1060" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1062 230)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_110">
           <title>Credits</title>
           <rect x="1075" y="205" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1077 210)" fill="black">
-            <tspan font-size="12" fill="black" x="6.647727" y="12" xml:space="preserve">4</tspan>
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
           </text>
         </g>
         <g id="Graphic_109">
           <text transform="translate(902 206.5)" fill="black">
-            <tspan font-size="8" fill="black" x="4.664773" y="8" xml:space="preserve">MATH/CS</tspan>
+            <tspan font-size="8" fill="black" x="4.664773" y="8">MATH/CS</tspan>
           </text>
         </g>
         <g id="Graphic_108">
@@ -476,7 +476,7 @@
           <rect x="900" y="230" width="40" height="10" fill="white"/>
           <rect x="900" y="230" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(902 230)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
       </g>
@@ -492,15 +492,15 @@
         <g id="Graphic_44">
           <title>Number</title>
           <text transform="translate(902 269.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.874452" y="12" xml:space="preserve">577</tspan>
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.874452" y="12">577</tspan>
           </text>
         </g>
         <g id="Graphic_43">
           <title>Title</title>
           <rect x="950" y="260" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(952 260.5)" fill="black">
-            <tspan font-size="10" fill="black" x="25.78409" y="10" xml:space="preserve">Introduction to </tspan>
-            <tspan font-size="10" fill="black" x="35.06676" y="22" xml:space="preserve">Algorithms</tspan>
+            <tspan font-size="10" fill="black" x="25.78409" y="10">Introduction to </tspan>
+            <tspan font-size="10" fill="black" x="35.06676" y="22">Algorithms</tspan>
           </text>
         </g>
         <g id="Graphic_42">
@@ -508,7 +508,7 @@
           <rect x="940" y="285" width="40" height="10" fill="#999"/>
           <rect x="940" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(942 285)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_41">
@@ -516,7 +516,7 @@
           <rect x="980" y="285" width="40" height="10" fill="white"/>
           <rect x="980" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(982 285)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_40">
@@ -524,7 +524,7 @@
           <rect x="1020" y="285" width="40" height="10" fill="white"/>
           <rect x="1020" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1022 285)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_39">
@@ -532,19 +532,19 @@
           <rect x="1060" y="285" width="40" height="10" fill="white"/>
           <rect x="1060" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1062 285)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_38">
           <title>Credits</title>
           <rect x="1075" y="260" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1077 265)" fill="black">
-            <tspan font-size="12" fill="black" x="6.647727" y="12" xml:space="preserve">4</tspan>
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
           </text>
         </g>
         <g id="Graphic_37">
           <text transform="translate(902 261.5)" fill="black">
-            <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
           </text>
         </g>
         <g id="Graphic_36">
@@ -552,7 +552,39 @@
           <rect x="900" y="285" width="40" height="10" fill="white"/>
           <rect x="900" y="285" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(902 285)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_176">
+        <title>Course</title>
+        <g id="Graphic_188">
+          <rect x="300" y="630" width="200" height="25" fill="white"/>
+          <rect x="300" y="630" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_186">
+          <title>Number</title>
+          <text transform="translate(302 639.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="7.459705" y="12">340*</tspan>
+          </text>
+        </g>
+        <g id="Graphic_185">
+          <title>Title</title>
+          <rect x="350" y="630" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 635)" fill="black">
+            <tspan font-size="12" fill="black" x="19.420455" y="12">Linear Algebra</tspan>
+          </text>
+        </g>
+        <g id="Graphic_180">
+          <title>Credits</title>
+          <rect x="475" y="630" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 635)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_179">
+          <text transform="translate(302 631.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="11.551136" y="8">MATH</tspan>
           </text>
         </g>
       </g>
@@ -565,139 +597,139 @@
         <g id="Graphic_322">
           <title>Number</title>
           <text transform="translate(602 94.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.39718" y="12" xml:space="preserve">352</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.39718" y="12">352</tspan>
           </text>
         </g>
         <g id="Graphic_321">
           <title>Title</title>
           <rect x="650" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(652 85.5)" fill="black">
-            <tspan font-size="10" fill="black" x="26.62216" y="10" xml:space="preserve">Digital System </tspan>
-            <tspan font-size="10" fill="black" x="27.360795" y="22" xml:space="preserve">Fundamentals</tspan>
+            <tspan font-size="10" fill="black" x="26.62216" y="10">Digital System </tspan>
+            <tspan font-size="10" fill="black" x="27.360795" y="22">Fundamentals</tspan>
           </text>
         </g>
         <g id="Graphic_320">
           <title>Credits</title>
           <rect x="775" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(777 90)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_319">
           <text transform="translate(602 86.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="8.420455" y="8" xml:space="preserve">ECE/CS</tspan>
+            <tspan font-size="8" fill="#b34400" x="8.420455" y="8">ECE/CS</tspan>
           </text>
         </g>
       </g>
       <g id="Group_419">
         <title>Course</title>
         <g id="Graphic_429">
-          <rect x="600" y="480" width="200" height="35" fill="white"/>
-          <rect x="600" y="480" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="600" y="482.5" width="200" height="35" fill="white"/>
+          <rect x="600" y="482.5" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_428">
           <title>Theory</title>
-          <rect x="640" y="505" width="40" height="10" fill="white"/>
-          <rect x="640" y="505" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(642 505)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+          <rect x="640" y="507.5" width="40" height="10" fill="white"/>
+          <rect x="640" y="507.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(642 507.5)" fill="black">
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_427">
           <title>SW/HW</title>
-          <rect x="680" y="505" width="40" height="10" fill="white"/>
-          <rect x="680" y="505" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(682 505)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+          <rect x="680" y="507.5" width="40" height="10" fill="white"/>
+          <rect x="680" y="507.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(682 507.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_426">
           <title>Applications</title>
-          <rect x="720" y="505" width="40" height="10" fill="#999"/>
-          <rect x="720" y="505" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(722 505)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+          <rect x="720" y="507.5" width="40" height="10" fill="#999"/>
+          <rect x="720" y="507.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(722 507.5)" fill="black">
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_425">
           <title>Elective</title>
-          <rect x="760" y="505" width="40" height="10" fill="white"/>
-          <rect x="760" y="505" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(762 505)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+          <rect x="760" y="507.5" width="40" height="10" fill="white"/>
+          <rect x="760" y="507.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(762 507.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_424">
           <title>Req</title>
-          <rect x="600" y="505" width="40" height="10" fill="white"/>
-          <rect x="600" y="505" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(602 505)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+          <rect x="600" y="507.5" width="40" height="10" fill="white"/>
+          <rect x="600" y="507.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(602 507.5)" fill="black">
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_423">
           <title>Number</title>
-          <text transform="translate(602 489.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="10.936965" y="12" xml:space="preserve">540</tspan>
+          <text transform="translate(602 492)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="10.936965" y="12">540</tspan>
           </text>
         </g>
         <g id="Graphic_422">
           <title>Title</title>
-          <rect x="650" y="480" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(652 480.5)" fill="black">
-            <tspan font-size="10" fill="black" x="22.701705" y="10" xml:space="preserve">Intro to Artificial </tspan>
-            <tspan font-size="10" fill="black" x="33.40483" y="22" xml:space="preserve">Intelligence</tspan>
+          <rect x="650" y="482.5" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(652 483)" fill="black">
+            <tspan font-size="10" fill="black" x="22.701705" y="10">Intro to Artificial </tspan>
+            <tspan font-size="10" fill="black" x="33.40483" y="22">Intelligence</tspan>
           </text>
         </g>
         <g id="Graphic_421">
           <title>Credits</title>
-          <rect x="775" y="480" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(777 485)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+          <rect x="775" y="482.5" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(777 487.5)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_420">
-          <text transform="translate(602 481.5)" fill="black">
-            <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+          <text transform="translate(602 484)" fill="black">
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
           </text>
         </g>
       </g>
       <g id="Group_869">
         <g id="Graphic_868">
-          <rect x="0" y="425" width="219.83486" height="308" fill="#c0ffff"/>
+          <rect x="0" y="425" width="219.83486" height="273" fill="#c0ffff"/>
           <text transform="translate(10 430)" fill="black">
-            <tspan font-size="12" fill="black" x="0" y="12" xml:space="preserve">Calculus Sequence</tspan>
+            <tspan font-size="12" fill="black" x="0" y="12">Calculus Sequence</tspan>
           </text>
         </g>
         <g id="Group_189">
           <title>Course</title>
           <g id="Graphic_194">
             <rect x="9" y="600" width="201.83486" height="25" fill="white"/>
-            <rect x="9" y="600" width="201.83486" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <rect x="9" y="600" width="201.83486" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           </g>
           <g id="Graphic_193">
             <title>Number</title>
-            <text transform="translate(11 609.5)" fill="#666">
-              <tspan font-weight="bold" font-size="12" fill="#666" x="11.427106" y="12" xml:space="preserve">234</tspan>
+            <text transform="translate(11 609.5)" fill="#005c5d">
+              <tspan font-weight="bold" font-size="12" fill="#005c5d" x="11.427106" y="12">234</tspan>
             </text>
           </g>
           <g id="Graphic_192">
             <title>Title</title>
-            <rect x="59.458716" y="600" width="126.14679" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(61.458716 605)" fill="#666">
-              <tspan font-size="12" fill="#666" x="42.110327" y="12" xml:space="preserve">Calc III</tspan>
+            <rect x="59.458716" y="600" width="126.14679" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(61.458716 605)" fill="black">
+              <tspan font-size="12" fill="black" x="42.110327" y="12">Calc III</tspan>
             </text>
           </g>
           <g id="Graphic_191">
             <title>Credits</title>
-            <rect x="185.6055" y="600" width="25.229358" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(187.6055 605)" fill="#666">
-              <tspan font-size="12" fill="#666" x="6.762407" y="12" xml:space="preserve">4</tspan>
+            <rect x="185.6055" y="600" width="25.229358" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(187.6055 605)" fill="black">
+              <tspan font-size="12" fill="black" x="6.762407" y="12">4</tspan>
             </text>
           </g>
           <g id="Graphic_190">
-            <text transform="translate(11 601.5)" fill="#666">
-              <tspan font-size="8" fill="#666" x="11.780495" y="8" xml:space="preserve">MATH</tspan>
+            <text transform="translate(11 601.5)" fill="#005c5d">
+              <tspan font-size="8" fill="#005c5d" x="11.780495" y="8">MATH</tspan>
             </text>
           </g>
         </g>
@@ -709,27 +741,27 @@
           </g>
           <g id="Graphic_337">
             <title>Number</title>
-            <text transform="translate(11 534.5)" fill="#005c5d">
-              <tspan font-weight="bold" font-size="12" fill="#005c5d" x="11.892445" y="12" xml:space="preserve">222</tspan>
+            <text transform="translate(11 534.5)" fill="#310067">
+              <tspan font-weight="bold" font-size="12" fill="#310067" x="11.892445" y="12">222</tspan>
             </text>
           </g>
           <g id="Graphic_336">
             <title>Title</title>
             <rect x="59.458716" y="525" width="126.14679" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(61.458716 530)" fill="black">
-              <tspan font-size="12" fill="black" x="40.695554" y="12" xml:space="preserve">Calc II*</tspan>
+              <tspan font-size="12" fill="black" x="40.695554" y="12">Calc II*</tspan>
             </text>
           </g>
           <g id="Graphic_335">
             <title>Credits</title>
             <rect x="185.6055" y="525" width="25.229358" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(187.6055 530)" fill="black">
-              <tspan font-size="12" fill="black" x="6.762407" y="12" xml:space="preserve">4</tspan>
+              <tspan font-size="12" fill="black" x="6.762407" y="12">4</tspan>
             </text>
           </g>
           <g id="Graphic_334">
-            <text transform="translate(11 526.5)" fill="#005c5d">
-              <tspan font-size="8" fill="#005c5d" x="11.780495" y="8" xml:space="preserve">MATH</tspan>
+            <text transform="translate(11 526.5)" fill="#310067">
+              <tspan font-size="8" fill="#310067" x="11.780495" y="8">MATH</tspan>
             </text>
           </g>
         </g>
@@ -741,127 +773,125 @@
           </g>
           <g id="Graphic_501">
             <title>Number</title>
-            <text transform="translate(11 459.5)" fill="#005c5d">
-              <tspan font-weight="bold" font-size="12" fill="#005c5d" x="12.736195" y="12" xml:space="preserve">221</tspan>
+            <text transform="translate(11 459.5)" fill="#310067">
+              <tspan font-weight="bold" font-size="12" fill="#310067" x="12.736195" y="12">221</tspan>
             </text>
           </g>
           <g id="Graphic_500">
             <title>Title</title>
             <rect x="59.458716" y="450" width="126.14679" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(61.458716 455)" fill="black">
-              <tspan font-size="12" fill="black" x="42.28078" y="12" xml:space="preserve">Calc I*</tspan>
+              <tspan font-size="12" fill="black" x="42.28078" y="12">Calc I*</tspan>
             </text>
           </g>
           <g id="Graphic_499">
             <title>Credits</title>
             <rect x="185.6055" y="450" width="25.229358" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
             <text transform="translate(187.6055 455)" fill="black">
-              <tspan font-size="12" fill="black" x="6.966952" y="12" xml:space="preserve">5</tspan>
+              <tspan font-size="12" fill="black" x="6.966952" y="12">5</tspan>
             </text>
           </g>
           <g id="Graphic_498">
-            <text transform="translate(11 451.5)" fill="#005c5d">
-              <tspan font-size="8" fill="#005c5d" x="11.780495" y="8" xml:space="preserve">MATH</tspan>
+            <text transform="translate(11 451.5)" fill="#310067">
+              <tspan font-size="8" fill="#310067" x="11.780495" y="8">MATH</tspan>
             </text>
           </g>
         </g>
         <g id="Graphic_1009">
           <title>• For details about WES-Calculus, see 
 https://math.wisc.edu/undergraduate/wes/</title>
-          <text transform="translate(11 673)" fill="black">
-            <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">• M</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve">ath </tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve">275/276</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve"> are advanced versions of </tspan>
-            <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">221/222</tspan>
-            <tspan font-size="10" fill="black" y="22" xml:space="preserve"> offered</tspan>
-            <tspan font-size="10" fill="black" y="22" xml:space="preserve"> by invitation.</tspan>
-            <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">• For details about WES-Calculus, see </tspan>
-            <tspan font-size="9" fill="black" x="0" y="45" xml:space="preserve">https://math.wisc.edu/undergraduate/wes/</tspan>
+          <text transform="translate(11 638)" fill="black">
+            <tspan font-size="10" fill="black" x="0" y="10">• Math </tspan>
+            <tspan font-size="10" fill="#310067" y="10">275/276</tspan>
+            <tspan font-size="10" fill="black" y="10"> are advanced versions of </tspan>
+            <tspan font-size="10" fill="#310067" x="0" y="22">221/222</tspan>
+            <tspan font-size="10" fill="black" y="22"> offered by invitation.</tspan>
+            <tspan font-size="10" fill="black" x="0" y="34">• For details about WES-Calculus, see </tspan>
+            <tspan font-size="9" fill="black" x="0" y="45">https://math.wisc.edu/undergraduate/wes/</tspan>
           </text>
         </g>
         <g id="Graphic_1156">
           <title>https://math.wisc.edu/undergraduate/wes/</title>
           <text transform="translate(14 480)" fill="black">
-            <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">*AP Calc AB (4-5)</tspan>
+            <tspan font-size="10" fill="black" x="0" y="10">*AP Calc AB (4-5)</tspan>
           </text>
         </g>
         <g id="Graphic_1180">
           <title>https://math.wisc.edu/undergraduate/wes/</title>
           <text transform="translate(14 555)" fill="black">
-            <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">*AP Calc BC (4-5)</tspan>
+            <tspan font-size="10" fill="black" x="0" y="10">*AP Calc BC (4-5)</tspan>
           </text>
         </g>
       </g>
       <g id="Group_520">
         <title>Course</title>
         <g id="Graphic_530">
-          <rect x="600" y="550" width="200" height="35" fill="white"/>
-          <rect x="600" y="550" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="600" y="532.5" width="200" height="35" fill="white"/>
+          <rect x="600" y="532.5" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_529">
           <title>Theory</title>
-          <rect x="640" y="575" width="40" height="10" fill="white"/>
-          <rect x="640" y="575" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(642 575)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+          <rect x="640" y="557.5" width="40" height="10" fill="white"/>
+          <rect x="640" y="557.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(642 557.5)" fill="black">
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_528">
           <title>SW/HW</title>
-          <rect x="680" y="575" width="40" height="10" fill="white"/>
-          <rect x="680" y="575" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(682 575)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+          <rect x="680" y="557.5" width="40" height="10" fill="white"/>
+          <rect x="680" y="557.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(682 557.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_527">
           <title>Applications</title>
-          <rect x="720" y="575" width="40" height="10" fill="white"/>
-          <rect x="720" y="575" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(722 575)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+          <rect x="720" y="557.5" width="40" height="10" fill="white"/>
+          <rect x="720" y="557.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(722 557.5)" fill="black">
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_526">
           <title>Elective</title>
-          <rect x="760" y="575" width="40" height="10" fill="#999"/>
-          <rect x="760" y="575" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(762 575)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+          <rect x="760" y="557.5" width="40" height="10" fill="#999"/>
+          <rect x="760" y="557.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(762 557.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_525">
           <title>Req</title>
-          <rect x="600" y="575" width="40" height="10" fill="white"/>
-          <rect x="600" y="575" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(602 575)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+          <rect x="600" y="557.5" width="40" height="10" fill="white"/>
+          <rect x="600" y="557.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(602 557.5)" fill="black">
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_524">
           <title>Number</title>
-          <text transform="translate(602 559.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.39718" y="12" xml:space="preserve">532</tspan>
+          <text transform="translate(602 542)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.39718" y="12">532</tspan>
           </text>
         </g>
         <g id="Graphic_523">
           <title>Title</title>
-          <rect x="650" y="550" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(652 556.5)" fill="black">
-            <tspan font-size="10" fill="black" x="9.193182" y="10" xml:space="preserve">Matrix Methods in ML</tspan>
+          <rect x="650" y="532.5" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(652 539)" fill="black">
+            <tspan font-size="10" fill="black" x="9.193182" y="10">Matrix Methods in ML</tspan>
           </text>
         </g>
         <g id="Graphic_522">
           <title>Credits</title>
-          <rect x="775" y="550" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(777 555)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+          <rect x="775" y="532.5" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(777 537.5)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_521">
-          <text transform="translate(602 551.5)" fill="black">
-            <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+          <text transform="translate(602 534)" fill="black">
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
           </text>
         </g>
       </g>
@@ -876,7 +906,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="640" y="665" width="40" height="10" fill="white"/>
           <rect x="640" y="665" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(642 665)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_544">
@@ -884,7 +914,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="680" y="665" width="40" height="10" fill="white"/>
           <rect x="680" y="665" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(682 665)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_543">
@@ -892,7 +922,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="720" y="665" width="40" height="10" fill="white"/>
           <rect x="720" y="665" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(722 665)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_542">
@@ -900,7 +930,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="760" y="665" width="40" height="10" fill="#999"/>
           <rect x="760" y="665" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(762 665)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_541">
@@ -908,33 +938,33 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="600" y="665" width="40" height="10" fill="white"/>
           <rect x="600" y="665" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(602 665)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_540">
           <title>Number</title>
-          <text transform="translate(602 649.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.109114" y="12" xml:space="preserve">435</tspan>
+          <text transform="translate(602 649.5)" fill="#003776">
+            <tspan font-weight="bold" font-size="12" fill="#003776" x="11.109114" y="12">435</tspan>
           </text>
         </g>
         <g id="Graphic_539">
           <title>Title</title>
           <rect x="650" y="640" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(652 640.5)" fill="black">
-            <tspan font-size="10" fill="black" x="25.78409" y="10" xml:space="preserve">Introduction to </tspan>
-            <tspan font-size="10" fill="black" x="27.900568" y="22" xml:space="preserve">Cryptography</tspan>
+            <tspan font-size="10" fill="black" x="25.78409" y="10">Introduction to </tspan>
+            <tspan font-size="10" fill="black" x="27.900568" y="22">Cryptography</tspan>
           </text>
         </g>
         <g id="Graphic_538">
           <title>Credits</title>
           <rect x="775" y="640" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(777 645)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_537">
-          <text transform="translate(602 641.5)" fill="black">
-            <tspan font-size="8" fill="black" x="4.664773" y="8" xml:space="preserve">MATH/CS</tspan>
+          <text transform="translate(602 641.5)" fill="#003776">
+            <tspan font-size="8" fill="#003776" x="4.664773" y="8">MATH/CS</tspan>
           </text>
         </g>
       </g>
@@ -949,7 +979,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="640" y="715" width="40" height="10" fill="white"/>
           <rect x="640" y="715" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(642 715)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_556">
@@ -957,7 +987,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="680" y="715" width="40" height="10" fill="white"/>
           <rect x="680" y="715" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(682 715)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_555">
@@ -965,7 +995,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="720" y="715" width="40" height="10" fill="white"/>
           <rect x="720" y="715" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(722 715)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_554">
@@ -973,7 +1003,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="760" y="715" width="40" height="10" fill="#999"/>
           <rect x="760" y="715" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(762 715)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_553">
@@ -981,106 +1011,106 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="600" y="715" width="40" height="10" fill="white"/>
           <rect x="600" y="715" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(602 715)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_552">
           <title>Number</title>
-          <text transform="translate(602 699.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.555705" y="12" xml:space="preserve">475</tspan>
+          <text transform="translate(602 699.5)" fill="#003776">
+            <tspan font-weight="bold" font-size="12" fill="#003776" x="11.555705" y="12">475</tspan>
           </text>
         </g>
         <g id="Graphic_551">
           <title>Title</title>
           <rect x="650" y="690" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(652 690.5)" fill="black">
-            <tspan font-size="10" fill="black" x="25.78409" y="10" xml:space="preserve">Introduction to </tspan>
-            <tspan font-size="10" fill="black" x="26.274148" y="22" xml:space="preserve">Combinatorics</tspan>
+            <tspan font-size="10" fill="black" x="25.78409" y="10">Introduction to </tspan>
+            <tspan font-size="10" fill="black" x="26.274148" y="22">Combinatorics</tspan>
           </text>
         </g>
         <g id="Graphic_550">
           <title>Credits</title>
           <rect x="775" y="690" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(777 695)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_549">
-          <text transform="translate(602 691.5)" fill="black">
-            <tspan font-size="8" fill="black" x="4.664773" y="8" xml:space="preserve">MATH/CS</tspan>
+          <text transform="translate(602 691.5)" fill="#003776">
+            <tspan font-size="8" fill="#003776" x="4.664773" y="8">MATH/CS</tspan>
           </text>
         </g>
       </g>
       <g id="Group_571">
         <title>Course</title>
         <g id="Graphic_581">
-          <rect x="600" y="430" width="200" height="35" fill="white"/>
-          <rect x="600" y="430" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="600" y="432.5" width="200" height="35" fill="white"/>
+          <rect x="600" y="432.5" width="200" height="35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
         </g>
         <g id="Graphic_580">
           <title>Theory</title>
-          <rect x="640" y="455" width="40" height="10" fill="white"/>
-          <rect x="640" y="455" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(642 455)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+          <rect x="640" y="457.5" width="40" height="10" fill="white"/>
+          <rect x="640" y="457.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(642 457.5)" fill="black">
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_579">
           <title>SW/HW</title>
-          <rect x="680" y="455" width="40" height="10" fill="white"/>
-          <rect x="680" y="455" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(682 455)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+          <rect x="680" y="457.5" width="40" height="10" fill="white"/>
+          <rect x="680" y="457.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(682 457.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_578">
           <title>Applications</title>
-          <rect x="720" y="455" width="40" height="10" fill="white"/>
-          <rect x="720" y="455" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(722 455)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+          <rect x="720" y="457.5" width="40" height="10" fill="white"/>
+          <rect x="720" y="457.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(722 457.5)" fill="black">
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_577">
           <title>Elective</title>
-          <rect x="760" y="455" width="40" height="10" fill="#999"/>
-          <rect x="760" y="455" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(762 455)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+          <rect x="760" y="457.5" width="40" height="10" fill="#999"/>
+          <rect x="760" y="457.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(762 457.5)" fill="black">
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_576">
           <title>Req</title>
-          <rect x="600" y="455" width="40" height="10" fill="white"/>
-          <rect x="600" y="455" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(602 455)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+          <rect x="600" y="457.5" width="40" height="10" fill="white"/>
+          <rect x="600" y="457.5" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(602 457.5)" fill="black">
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_575">
           <title>Number</title>
-          <text transform="translate(602 439.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="11.214796" y="12" xml:space="preserve">539</tspan>
+          <text transform="translate(602 442)" fill="black">
+            <tspan font-weight="bold" font-size="12" fill="black" x="11.214796" y="12">539</tspan>
           </text>
         </g>
         <g id="Graphic_574">
           <title>Title</title>
-          <rect x="650" y="430" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(652 430.5)" fill="black">
-            <tspan font-size="10" fill="black" x="4.9886364" y="10" xml:space="preserve">Introduction to Artificial </tspan>
-            <tspan font-size="10" fill="black" x="21.004261" y="22" xml:space="preserve">Neural Networks</tspan>
+          <rect x="650" y="432.5" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(652 433)" fill="black">
+            <tspan font-size="10" fill="black" x="4.9886364" y="10">Introduction to Artificial </tspan>
+            <tspan font-size="10" fill="black" x="21.004261" y="22">Neural Networks</tspan>
           </text>
         </g>
         <g id="Graphic_573">
           <title>Credits</title>
-          <rect x="775" y="430" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(777 435)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+          <rect x="775" y="432.5" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(777 437.5)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_572">
-          <text transform="translate(602 431.5)" fill="black">
-            <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+          <text transform="translate(602 434)" fill="black">
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
           </text>
         </g>
       </g>
@@ -1093,26 +1123,26 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <g id="Graphic_754">
           <title>Number</title>
           <text transform="translate(602 44.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="10.959118" y="12" xml:space="preserve">330</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="10.959118" y="12">330</tspan>
           </text>
         </g>
         <g id="Graphic_753">
           <title>Title</title>
           <rect x="650" y="35" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(652 41.5)" fill="black">
-            <tspan font-size="10" fill="black" x="11.622159" y="10" xml:space="preserve">Signals and Systems</tspan>
+            <tspan font-size="10" fill="black" x="11.622159" y="10">Signals and Systems</tspan>
           </text>
         </g>
         <g id="Graphic_752">
           <title>Credits</title>
           <rect x="775" y="35" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(777 40)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_751">
           <text transform="translate(602 36.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="15.306818" y="8" xml:space="preserve">ECE</tspan>
+            <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
       </g>
@@ -1125,27 +1155,27 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <g id="Graphic_766">
           <title>Number</title>
           <text transform="translate(302 44.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12" xml:space="preserve">203</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12">203</tspan>
           </text>
         </g>
         <g id="Graphic_765">
           <title>Title</title>
           <rect x="350" y="35" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(352 35.5)" fill="black">
-            <tspan font-size="10" fill="black" x="12.46733" y="10" xml:space="preserve">Signals, Information,</tspan>
-            <tspan font-size="10" fill="black" x="25.428977" y="22" xml:space="preserve">&amp; Computation</tspan>
+            <tspan font-size="10" fill="black" x="12.46733" y="10">Signals, Information,</tspan>
+            <tspan font-size="10" fill="black" x="25.428977" y="22">&amp; Computation</tspan>
           </text>
         </g>
         <g id="Graphic_764">
           <title>Credits</title>
           <rect x="475" y="35" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(477 40)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_763">
           <text transform="translate(302 36.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="15.306818" y="8" xml:space="preserve">ECE</tspan>
+            <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
       </g>
@@ -1158,26 +1188,26 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <g id="Graphic_882">
           <title>Number</title>
           <text transform="translate(302 94.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12" xml:space="preserve">230</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.136391" y="12">230</tspan>
           </text>
         </g>
         <g id="Graphic_881">
           <title>Title</title>
           <rect x="350" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(352 91.5)" fill="black">
-            <tspan font-size="10" fill="black" x="24.28551" y="10" xml:space="preserve">Circuit Analysis</tspan>
+            <tspan font-size="10" fill="black" x="24.28551" y="10">Circuit Analysis</tspan>
           </text>
         </g>
         <g id="Graphic_880">
           <title>Credits</title>
           <rect x="475" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(477 90)" fill="black">
-            <tspan font-size="12" fill="black" x="6.647727" y="12" xml:space="preserve">4</tspan>
+            <tspan font-size="12" fill="black" x="6.647727" y="12">4</tspan>
           </text>
         </g>
         <g id="Graphic_879">
           <text transform="translate(302 86.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="15.306818" y="8" xml:space="preserve">ECE</tspan>
+            <tspan font-size="8" fill="#b34400" x="15.306818" y="8">ECE</tspan>
           </text>
         </g>
       </g>
@@ -1190,68 +1220,76 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <g id="Graphic_894">
           <title>Number</title>
           <text transform="translate(12 94.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.313664" y="12" xml:space="preserve">202</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.313664" y="12">202</tspan>
           </text>
         </g>
         <g id="Graphic_893">
           <title>Title</title>
           <rect x="60" y="85" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(62 91.5)" fill="black">
-            <tspan font-size="10" fill="black" x="9.328125" y="10" xml:space="preserve">General Physics: E&amp;M</tspan>
+            <tspan font-size="10" fill="black" x="9.328125" y="10">General Physics: E&amp;M</tspan>
           </text>
         </g>
         <g id="Graphic_892">
           <title>Credits</title>
           <rect x="185" y="85" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(187 90)" fill="black">
-            <tspan font-size="12" fill="black" x="6.852273" y="12" xml:space="preserve">5</tspan>
+            <tspan font-size="12" fill="black" x="6.852273" y="12">5</tspan>
           </text>
         </g>
         <g id="Graphic_891">
           <text transform="translate(12 86.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="5.772727" y="8" xml:space="preserve">PHYSICS</tspan>
+            <tspan font-size="8" fill="#b34400" x="5.772727" y="8">PHYSICS</tspan>
           </text>
         </g>
       </g>
       <g id="Graphic_900">
         <text transform="translate(865 612)" fill="black">
-          <tspan font-style="italic" font-size="10" fill="black" x="0" y="10" xml:space="preserve">What are the actual math requirements?</tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve"> • </tspan>
-          <tspan font-size="10" fill="#005c5d" y="22" xml:space="preserve">Calc I</tspan>
-          <tspan font-size="10" fill="#005c5d" y="22" xml:space="preserve"> </tspan>
-          <tspan font-size="10" fill="black" y="22" xml:space="preserve">and </tspan>
-          <tspan font-size="10" fill="#005c5d" y="22" xml:space="preserve">Calc II</tspan>
-          <tspan font-size="10" fill="black" y="22" xml:space="preserve"> (in any form)</tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve"> • A 3-credit </tspan>
-          <tspan font-size="10" fill="#b1001c" y="34" xml:space="preserve">Linear Algebra</tspan>
-          <tspan font-size="10" fill="black" y="34" xml:space="preserve"> class</tspan>
-          <tspan font-size="10" fill="black" x="0" y="46" xml:space="preserve"> • A 3-credit </tspan>
-          <tspan font-size="10" fill="#310067" y="46" xml:space="preserve">Probability or Statistics</tspan>
-          <tspan font-size="10" fill="black" y="46" xml:space="preserve"> class</tspan>
-          <tspan font-size="10" fill="black" x="0" y="70" xml:space="preserve">Also, a single class cannot be used to meet more than </tspan>
-          <tspan font-size="10" fill="black" x="0" y="82" xml:space="preserve">one of the requirements. For example, Cryptography </tspan>
-          <tspan font-size="10" fill="black" x="0" y="94" xml:space="preserve">(Math/CS 435) can be used as either an advanced </tspan>
-          <tspan font-size="10" fill="black" x="0" y="106" xml:space="preserve">math class or a CS elective, but not both.</tspan>
+          <tspan font-style="italic" font-size="10" fill="black" x="0" y="10">What are the actual math requirements?</tspan>
+          <tspan font-size="10" fill="black" x="0" y="22"> • </tspan>
+          <tspan font-size="10" fill="#310067" y="22">Calc I</tspan>
+          <tspan font-size="10" fill="black" y="22"> and </tspan>
+          <tspan font-size="10" fill="#310067" y="22">Calc II</tspan>
+          <tspan font-size="10" fill="black" y="22"> (in any form)</tspan>
+          <tspan font-size="10" fill="black" x="0" y="34"> • At least 6 credits of </tspan>
+          <tspan font-size="10" fill="#005c5d" y="34">math beyond Calculus</tspan>
+          <tspan font-size="10" fill="black" x="0" y="58">Also, a single class cannot be used to meet more than </tspan>
+          <tspan font-size="10" fill="black" x="0" y="70">one of the requirements. For example, Cryptography </tspan>
+          <tspan font-size="10" fill="black" x="0" y="82">(Math/CS 435) can be used as either an advanced </tspan>
+          <tspan font-size="10" fill="black" x="0" y="94">math class or a CS elective, but not both.</tspan>
         </text>
       </g>
       <g id="Graphic_901">
         <text transform="translate(865 535)" fill="black">
-          <tspan font-weight="bold" font-size="10" fill="black" x="0" y="10" xml:space="preserve">Key:</tspan>
-          <tspan font-size="10" fill="black" y="10" xml:space="preserve"> Solid lines indicate requirements. Dashed </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">lines indicate “is sufficient for”, as a minimum </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">requirement, or “should be taken before”, where </tspan>
-          <tspan font-size="10" fill="black" x="0" y="46" xml:space="preserve">the requirement is not specified but a logical order </tspan>
-          <tspan font-size="10" fill="black" x="0" y="58" xml:space="preserve">exists.</tspan>
+          <tspan font-weight="bold" font-size="10" fill="black" x="0" y="10">Key:</tspan>
+          <tspan font-size="10" fill="black" y="10"> Solid lines indicate requirements. Dashed </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">lines indicate “is sufficient for”, as a minimum </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">requirement, or “should be taken before”, where </tspan>
+          <tspan font-size="10" fill="black" x="0" y="46">the requirement is not specified but a logical order </tspan>
+          <tspan font-size="10" fill="black" x="0" y="58">exists.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_903">
+        <text transform="translate(301 658)" fill="#003776">
+          <tspan font-size="10" fill="#003776" x="0" y="10">320</tspan>
+          <tspan font-size="10" fill="black" y="10"> is both Linear Algebra and Differential </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">equations in one semester, for engineers.</tspan>
+          <tspan font-size="10" fill="#003776" x="0" y="34">340</tspan>
+          <tspan font-size="10" fill="black" y="34"> is Linear Algebra, computation based.</tspan>
+          <tspan font-size="10" fill="#003776" x="0" y="46">341</tspan>
+          <tspan font-size="10" fill="black" y="46"> is Linear Algebra, proof based. People </tspan>
+          <tspan font-size="10" fill="black" x="0" y="58">considering math majors should take 341 instead </tspan>
+          <tspan font-size="10" fill="black" x="0" y="70">of 340.</tspan>
         </text>
       </g>
       <g id="Graphic_904">
         <text transform="translate(10 32)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">These courses are marked in </tspan>
-          <tspan font-size="10" fill="#b34400" y="10" xml:space="preserve">orange</tspan>
-          <tspan font-size="10" fill="black" y="10" xml:space="preserve"> because they are </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">ECE, not CS classes. CoE prioritizes engineering majors </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">for enrollment. I have only listed them here because they </tspan>
-          <tspan font-size="10" fill="black" x="0" y="46" xml:space="preserve">are prerequisites for Image Processing/Architecture.</tspan>
+          <tspan font-size="10" fill="black" x="0" y="10">These courses are marked in </tspan>
+          <tspan font-size="10" fill="#b34400" y="10">orange</tspan>
+          <tspan font-size="10" fill="black" y="10"> because they are </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">ECE, not CS classes. CoE prioritizes engineering majors </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">for enrollment. I have only listed them here because they </tspan>
+          <tspan font-size="10" fill="black" x="0" y="46">are prerequisites for Image Processing/Architecture.</tspan>
         </text>
       </g>
       <g id="Group_986">
@@ -1265,7 +1303,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="940" y="175" width="40" height="10" fill="white"/>
           <rect x="940" y="175" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(942 175)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_994">
@@ -1273,7 +1311,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="980" y="175" width="40" height="10" fill="#999"/>
           <rect x="980" y="175" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(982 175)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_993">
@@ -1281,7 +1319,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="1020" y="175" width="40" height="10" fill="white"/>
           <rect x="1020" y="175" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1022 175)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_992">
@@ -1289,7 +1327,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="1060" y="175" width="40" height="10" fill="white"/>
           <rect x="1060" y="175" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1062 175)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_991">
@@ -1297,156 +1335,202 @@ https://math.wisc.edu/undergraduate/wes/</title>
           <rect x="900" y="175" width="40" height="10" fill="white"/>
           <rect x="900" y="175" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(902 175)" fill="black">
-            <tspan font-size="8" fill="black" x="9.596591" y="8" xml:space="preserve">Req.</tspan>
+            <tspan font-size="8" fill="black" x="9.596591" y="8">Req.</tspan>
           </text>
         </g>
         <g id="Graphic_990">
           <title>Number</title>
           <text transform="translate(902 159.5)" fill="#b34400">
-            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.48582" y="12" xml:space="preserve">552</tspan>
+            <tspan font-weight="bold" font-size="12" fill="#b34400" x="11.48582" y="12">552</tspan>
           </text>
         </g>
         <g id="Graphic_989">
           <title>Title</title>
           <rect x="950" y="150" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(952 150.5)" fill="black">
-            <tspan font-size="10" fill="black" x="25.78409" y="10" xml:space="preserve">Introduction to </tspan>
-            <tspan font-size="10" fill="black" x="31.508523" y="22" xml:space="preserve">Architecture</tspan>
+            <tspan font-size="10" fill="black" x="25.78409" y="10">Introduction to </tspan>
+            <tspan font-size="10" fill="black" x="31.508523" y="22">Architecture</tspan>
           </text>
         </g>
         <g id="Graphic_988">
           <title>Credits</title>
           <rect x="1075" y="150" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(1077 155)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_987">
           <text transform="translate(902 151.5)" fill="#b34400">
-            <tspan font-size="8" fill="#b34400" x="8.420455" y="8" xml:space="preserve">ECE/CS</tspan>
+            <tspan font-size="8" fill="#b34400" x="8.420455" y="8">ECE/CS</tspan>
           </text>
         </g>
       </g>
       <g id="Graphic_999">
-        <text transform="translate(475 760)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">There are many more courses down here in math-land.</tspan>
+        <text transform="translate(385 760)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">There are many more courses down here in math-land.</tspan>
+        </text>
+      </g>
+      <g id="Group_1000">
+        <title>Course</title>
+        <g id="Graphic_1005">
+          <rect x="300" y="395" width="200" height="25" fill="white"/>
+          <rect x="300" y="395" width="200" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1004">
+          <title>Number</title>
+          <text transform="translate(302 404.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="12.14718" y="12">319</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1003">
+          <title>Title</title>
+          <rect x="350" y="395" width="125" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 395.5)" fill="#666">
+            <tspan font-size="10" fill="#666" x="6.167614" y="10">Techniques in Ordinary </tspan>
+            <tspan font-size="10" fill="#666" x="9.995739" y="22">Differential Equations</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1002">
+          <title>Credits</title>
+          <rect x="475" y="395" width="25" height="25" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 400)" fill="#666">
+            <tspan font-size="12" fill="#666" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1001">
+          <text transform="translate(302 396.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="11.551136" y="8">MATH</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1007">
+        <text transform="translate(301 423)" fill="#666">
+          <tspan font-size="10" fill="#666" x="0" y="10">Most people don’t take this, but it is quite </tspan>
+          <tspan font-size="10" fill="#666" x="0" y="22">important in physics &amp; engineering, as </tspan>
+          <tspan font-size="10" fill="#666" x="0" y="34">well as relevant to some CS specialties.</tspan>
         </text>
       </g>
       <g id="Graphic_1181">
-        <circle cx="110" cy="277.5" r="40.0000639160759" fill="#c0ffc0"/>
+        <circle cx="110" cy="277.5" r="40.0000639160758" fill="#c0ffc0"/>
         <text transform="translate(83 257.5)" fill="black">
-          <tspan font-size="16" fill="black" x="8.318182" y="16" xml:space="preserve">Start </tspan>
-          <tspan font-size="16" fill="black" x="8.920455" y="36" xml:space="preserve">Here</tspan>
+          <tspan font-size="16" fill="black" x="8.318182" y="16">Start </tspan>
+          <tspan font-size="16" fill="black" x="8.920455" y="36">Here</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1188">
+        <rect x="189.98553" y="272.5" width="51.18182" height="10" fill="white"/>
+        <text transform="translate(191.98553 272.5)" fill="black">
+          <tspan font-size="8" fill="black" x="0" y="8">math people</tspan>
         </text>
       </g>
       <g id="Graphic_1189">
         <text transform="translate(865 349)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">Most of the computer courses are hidden here in </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">this overview. I have left some which only require </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">300, especially the AI ones, as well as OS and Algos </tspan>
-          <tspan font-size="10" fill="black" x="0" y="46" xml:space="preserve">which illustrate where the earlier courses lead.</tspan>
+          <tspan font-size="10" fill="black" x="0" y="10">Most of the computer courses are hidden here in </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">this overview. I have left some which only require </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">300, especially the AI ones, as well as OS and Algos </tspan>
+          <tspan font-size="10" fill="black" x="0" y="46">which illustrate where the earlier courses lead.</tspan>
         </text>
       </g>
       <g id="Graphic_1190">
         <text transform="translate(865 445)" fill="black">
-          <tspan font-size="18" fill="black" x="0" y="17" xml:space="preserve">A Birds-Eye View of the CS </tspan>
-          <tspan font-size="18" fill="black" x="0" y="38" xml:space="preserve">Major for Incoming Freshmen</tspan>
+          <tspan font-size="18" fill="black" x="0" y="17">A Birds-Eye View of the CS </tspan>
+          <tspan font-size="18" fill="black" x="0" y="38">Major for Incoming Freshmen</tspan>
         </text>
       </g>
       <g id="Graphic_1191">
         <text transform="translate(865 495)" fill="black">
-          <tspan font-size="9" fill="black" x="0" y="9" xml:space="preserve">by Michael Noguera (https://noguera.dev/course-map)</tspan>
+          <tspan font-size="9" fill="black" x="0" y="9">by Michael Noguera (https://noguera.dev/course-map)</tspan>
         </text>
       </g>
       <g id="Graphic_1195">
         <text transform="translate(10 115)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">To be clear, you don’t have to take these classes, and </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">most people don’t, unless they are interested in this area.</tspan>
+          <tspan font-size="10" fill="black" x="0" y="10">To be clear, you don’t have to take these classes, and </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">most people don’t, unless they are interested in this area.</tspan>
         </text>
       </g>
       <g id="Group_1280">
         <g id="Graphic_1262">
           <title>Theory</title>
-          <rect x="905" y="772" width="40" height="10" fill="white"/>
-          <rect x="905" y="772" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(907 772)" fill="black">
-            <tspan font-size="8" fill="black" x="4.568182" y="8" xml:space="preserve">Theory</tspan>
+          <rect x="905" y="760" width="40" height="10" fill="white"/>
+          <rect x="905" y="760" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(907 760)" fill="black">
+            <tspan font-size="8" fill="black" x="4.568182" y="8">Theory</tspan>
           </text>
         </g>
         <g id="Graphic_1261">
           <title>SW/HW</title>
-          <rect x="945" y="772" width="40" height="10" fill="white"/>
-          <rect x="945" y="772" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(947 772)" fill="black">
-            <tspan font-size="8" fill="black" x="3.471591" y="8" xml:space="preserve">SW/HW</tspan>
+          <rect x="945" y="760" width="40" height="10" fill="white"/>
+          <rect x="945" y="760" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(947 760)" fill="black">
+            <tspan font-size="8" fill="black" x="3.471591" y="8">SW/HW</tspan>
           </text>
         </g>
         <g id="Graphic_1260">
           <title>Applications</title>
-          <rect x="985" y="772" width="40" height="10" fill="white"/>
-          <rect x="985" y="772" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(987 772)" fill="black">
-            <tspan font-size="8" fill="black" x="8.369318" y="8" xml:space="preserve">Appl.</tspan>
+          <rect x="985" y="760" width="40" height="10" fill="white"/>
+          <rect x="985" y="760" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(987 760)" fill="black">
+            <tspan font-size="8" fill="black" x="8.369318" y="8">Appl.</tspan>
           </text>
         </g>
         <g id="Graphic_1259">
           <title>Elective</title>
-          <rect x="1025" y="772" width="40" height="10" fill="white"/>
-          <rect x="1025" y="772" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(1027 772)" fill="black">
-            <tspan font-size="8" fill="black" x="3.215909" y="8" xml:space="preserve">Elective</tspan>
+          <rect x="1025" y="760" width="40" height="10" fill="white"/>
+          <rect x="1025" y="760" width="40" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1027 760)" fill="black">
+            <tspan font-size="8" fill="black" x="3.215909" y="8">Elective</tspan>
           </text>
         </g>
         <g id="Graphic_1274">
           <title>Theory</title>
-          <rect x="905" y="782" width="40" height="20" fill="white"/>
-          <rect x="905" y="782" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(907 784.5)" fill="black">
-            <tspan font-size="12" fill="black" x="14.181818" y="12" xml:space="preserve">3</tspan>
+          <rect x="905" y="770" width="40" height="20" fill="white"/>
+          <rect x="905" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(907 772.5)" fill="black">
+            <tspan font-size="12" fill="black" x="14.181818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_1275">
           <title>SW/HW</title>
-          <rect x="945" y="782" width="40" height="20" fill="white"/>
-          <rect x="945" y="782" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(947 784.5)" fill="black">
-            <tspan font-size="12" fill="black" x="7.798295" y="12" xml:space="preserve">6-8</tspan>
+          <rect x="945" y="770" width="40" height="20" fill="white"/>
+          <rect x="945" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(947 772.5)" fill="black">
+            <tspan font-size="12" fill="black" x="7.798295" y="12">6-8</tspan>
           </text>
         </g>
         <g id="Graphic_1276">
           <title>Applications</title>
-          <rect x="985" y="782" width="40" height="20" fill="white"/>
-          <rect x="985" y="782" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(987 784.5)" fill="black">
-            <tspan font-size="12" fill="black" x="14.181818" y="12" xml:space="preserve">3</tspan>
+          <rect x="985" y="770" width="40" height="20" fill="white"/>
+          <rect x="985" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(987 772.5)" fill="black">
+            <tspan font-size="12" fill="black" x="14.181818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_1277">
           <title>Elective</title>
-          <rect x="1025" y="782" width="40" height="20" fill="white"/>
-          <rect x="1025" y="782" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(1027 784.5)" fill="black">
-            <tspan font-size="12" fill="black" x="7.798295" y="12" xml:space="preserve">6-8</tspan>
+          <rect x="1025" y="770" width="40" height="20" fill="white"/>
+          <rect x="1025" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1027 772.5)" fill="black">
+            <tspan font-size="12" fill="black" x="7.798295" y="12">6-8</tspan>
           </text>
         </g>
         <g id="Graphic_1278">
           <title>Theory</title>
-          <rect x="865" y="782" width="40" height="20" fill="white"/>
-          <rect x="865" y="782" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          <text transform="translate(867 787)" fill="black">
-            <tspan font-size="8" fill="black" x="1.4318182" y="8" xml:space="preserve"># credits</tspan>
+          <rect x="865" y="770" width="40" height="20" fill="white"/>
+          <rect x="865" y="770" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(867 775)" fill="black">
+            <tspan font-size="8" fill="black" x="1.4318182" y="8"># credits</tspan>
           </text>
         </g>
       </g>
       <g id="Graphic_1279">
-        <text transform="translate(865 737)" fill="black">
-          <tspan font-style="italic" font-size="10" fill="black" x="0" y="10" xml:space="preserve">What are the actual CS requirements beyond the </tspan>
-          <tspan font-style="italic" font-size="10" fill="black" x="0" y="22" xml:space="preserve">explicitly-required classes?</tspan>
+        <text transform="translate(865 725)" fill="black">
+          <tspan font-style="italic" font-size="10" fill="black" x="0" y="10">What are the actual CS requirements beyond the </tspan>
+          <tspan font-style="italic" font-size="10" fill="black" x="0" y="22">explicitly-required classes?</tspan>
         </text>
       </g>
       <g id="Graphic_1307">
         <text transform="translate(865 510)" fill="#666">
-          <tspan font-size="6" fill="#666" x="0" y="6" xml:space="preserve">© 2024, CC-BY-NC-SA</tspan>
+          <tspan font-size="6" fill="#666" x="0" y="6">© 2022, CC-BY-NC-SA</tspan>
         </text>
       </g>
       <g id="Line_997">
@@ -1454,6 +1538,9 @@ https://math.wisc.edu/undergraduate/wes/</title>
       </g>
       <g id="Line_998">
         <line x1="800" y1="222.5" x2="891.3255" y2="172.271" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1008">
+        <line x1="210.83486" y1="537.5" x2="294.40032" y2="415.66416" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_1182">
         <line x1="148.42968" y1="266.37562" x2="290.4904" y2="225.25277" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -1465,7 +1552,7 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="109.97761" y1="317.5" x2="109.92297" y2="415.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_1186">
-        <line x1="150.00002" y1="277.5" x2="290.1" y2="277.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="150.00002" y1="277.5" x2="290.1" y2="277.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
       </g>
       <g id="Line_76">
         <line x1="500" y1="332.5" x2="590.1" y2="332.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -1489,34 +1576,34 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <line x1="500" y1="277.5" x2="890.1" y2="277.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_339">
-        <line x1="210.83486" y1="537.5" x2="292.34123" y2="447.82603" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="537.5" x2="293.59182" y2="634.9538" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_340">
-        <line x1="109.91743" y1="550" x2="109.91743" y2="590.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="109.91743" y1="550" x2="109.91743" y2="590.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_504">
-        <line x1="500" y1="332.5" x2="594.8688" y2="489.03354" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <line x1="500" y1="332.5" x2="594.92516" y2="491.49965" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
       </g>
       <g id="Line_505">
-        <path d="M 210.83486 462.5 L 280 585 L 530 585 L 593.8155 505.2306" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <line x1="210.83486" y1="462.5" x2="590.14564" y2="499.05043" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
       </g>
       <g id="Line_513">
         <line x1="109.91743" y1="475" x2="109.91743" y2="515.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_531">
-        <line x1="499" y1="440.5" x2="593.8379" y2="559.7516" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="592.7324" y2="556.7225" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_534">
-        <line x1="500" y1="332.5" x2="596.1236" y2="558.3905" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="332.5" x2="595.86444" y2="541.00516" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_547">
-        <line x1="499" y1="440.5" x2="595.8225" y2="648.5246" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="590.2095" y2="656.0314" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_559">
-        <line x1="499" y1="440.5" x2="596.4973" y2="698.24036" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="500" y1="642.5" x2="591.6994" y2="702.1046" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Line_582">
-        <line x1="500" y1="332.5" x2="593.5038" y2="440.0294" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <line x1="500" y1="332.5" x2="593.5836" y2="442.46076" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
       </g>
       <g id="Line_819">
         <line x1="800" y1="332.5" x2="891.3255" y2="282.271" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -1536,8 +1623,48 @@ https://math.wisc.edu/undergraduate/wes/</title>
       <g id="Line_896">
         <line x1="210" y1="97.5" x2="290.1" y2="97.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
+      <g id="Group_1308">
+        <title>Course</title>
+        <g id="Graphic_1313">
+          <rect x="300" y="510" width="200" height="25" fill="white"/>
+          <rect x="300" y="510" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1312">
+          <title>Number</title>
+          <text transform="translate(302 519.5)" fill="#005c5d">
+            <tspan font-weight="bold" font-size="12" fill="#005c5d" x="11.291498" y="12">324</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1311">
+          <title>Title</title>
+          <rect x="350" y="510" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(352 510.5)" fill="black">
+            <tspan font-size="10" fill="black" x="12.105114" y="10">Introductory Applied </tspan>
+            <tspan font-size="10" fill="black" x="5.9261364" y="22">Statistics for Engineers</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1310">
+          <title>Credits</title>
+          <rect x="475" y="510" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(477 515)" fill="black">
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1309">
+          <text transform="translate(302 511.5)" fill="#005c5d">
+            <tspan font-size="8" fill="#005c5d" x="13.289773" y="8">STAT</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1314">
+        <text transform="translate(301 538)" fill="black">
+          <tspan font-size="10" fill="black" x="0" y="10">Popular for “math beyond calculus”. Does </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">not appear to count towards the Data </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">Science major.</tspan>
+        </text>
+      </g>
       <g id="Line_1316">
-        <line x1="210.83486" y1="537.5" x2="292.45288" y2="630.074" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line x1="210.83486" y1="537.5" x2="290.23718" y2="524.1424" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       </g>
       <g id="Group_1317">
         <title>Course</title>
@@ -1548,175 +1675,38 @@ https://math.wisc.edu/undergraduate/wes/</title>
         <g id="Graphic_1321">
           <title>Number</title>
           <text transform="translate(27 164.5)" fill="black">
-            <tspan font-weight="bold" font-size="12" fill="black" x="10.964241" y="12" xml:space="preserve">200</tspan>
+            <tspan font-weight="bold" font-size="12" fill="black" x="10.964241" y="12">200</tspan>
           </text>
         </g>
         <g id="Graphic_1320">
           <title>Title</title>
           <rect x="75" y="155" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(77 161.5)" fill="black">
-            <tspan font-size="10" fill="black" x="26.259943" y="10" xml:space="preserve">Programming I</tspan>
+            <tspan font-size="10" fill="black" x="26.259943" y="10">Programming I</tspan>
           </text>
         </g>
         <g id="Graphic_1319">
           <title>Credits</title>
           <rect x="200" y="155" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(202 160)" fill="black">
-            <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
+            <tspan font-size="12" fill="black" x="6.681818" y="12">3</tspan>
           </text>
         </g>
         <g id="Graphic_1318">
           <text transform="translate(27 156.5)" fill="black">
-            <tspan font-size="8" fill="black" x="3.306818" y="8" xml:space="preserve">COMP SCI</tspan>
+            <tspan font-size="8" fill="black" x="3.306818" y="8">COMP SCI</tspan>
           </text>
         </g>
       </g>
       <g id="Graphic_1323">
         <text transform="translate(25 185)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">Does not count towards the major. If you have </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">no experience, take this. Roughly equivalent </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">to AP Computer Science A.</tspan>
+          <tspan font-size="10" fill="black" x="0" y="10">Does not count towards the major. If you have </tspan>
+          <tspan font-size="10" fill="black" x="0" y="22">no experience, take this. Roughly equivalent </tspan>
+          <tspan font-size="10" fill="black" x="0" y="34">to AP Computer Science A.</tspan>
         </text>
       </g>
       <g id="Line_1325">
         <path d="M 70.10441 280.39728 C 49.711443 279.75103 26.7654 275.2258 15 260 C -3.4581232 236.11302 12.255483 194.4986 20.59996 176.36733" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      </g>
-      <g id="Graphic_1349">
-        <title>https://math.wisc.edu/undergraduate/wes/</title>
-        <text transform="translate(15 630)" fill="black">
-          <tspan font-size="10" fill="black" x="0" y="10" xml:space="preserve">For students declaring CS Fall 2024 or </tspan>
-          <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">later, Calc III does not count for any </tspan>
-          <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">major requirements.</tspan>
-        </text>
-      </g>
-      <g id="Group_1350">
-        <g id="Graphic_1372">
-          <rect x="290" y="403" width="218" height="167" fill="#ffc0c0"/>
-          <text transform="translate(300 408)" fill="black">
-            <tspan font-size="12" fill="black" x="0" y="12" xml:space="preserve">Linear Algebra</tspan>
-          </text>
-        </g>
-        <g id="Group_176">
-          <title>Course</title>
-          <g id="Graphic_188">
-            <rect x="299" y="428" width="200" height="25" fill="white"/>
-            <rect x="299" y="428" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          </g>
-          <g id="Graphic_186">
-            <title>Number</title>
-            <text transform="translate(301 437.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="10.848325" y="12" xml:space="preserve">340</tspan>
-            </text>
-          </g>
-          <g id="Graphic_185">
-            <title>Title</title>
-            <rect x="349" y="428" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(351 433)" fill="black">
-              <tspan font-size="12" fill="black" x="19.420455" y="12" xml:space="preserve">Linear Algebra</tspan>
-            </text>
-          </g>
-          <g id="Graphic_180">
-            <title>Credits</title>
-            <rect x="474" y="428" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(476 433)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
-            </text>
-          </g>
-          <g id="Graphic_179">
-            <text transform="translate(301 429.5)" fill="black">
-              <tspan font-size="8" fill="black" x="11.551136" y="8" xml:space="preserve">MATH</tspan>
-            </text>
-          </g>
-        </g>
-        <g id="Graphic_903">
-          <text transform="translate(300 461)" fill="black">
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="10" xml:space="preserve">MATH 320</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve"> is Linear Algebra &amp; Diff Eq. in </tspan>
-            <tspan font-size="10" fill="black" x="0" y="22" xml:space="preserve">one semester, for engineers.</tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="34" xml:space="preserve">MATH 340</tspan>
-            <tspan font-size="10" fill="black" y="34" xml:space="preserve"> is the default Linear Algebra, </tspan>
-            <tspan font-size="10" fill="black" x="0" y="46" xml:space="preserve">computation based.</tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="58" xml:space="preserve">MATH 341</tspan>
-            <tspan font-size="10" fill="black" y="58" xml:space="preserve"> is Linear Algebra, proof based. </tspan>
-            <tspan font-size="10" fill="black" x="0" y="70" xml:space="preserve">People considering math majors should </tspan>
-            <tspan font-size="10" fill="black" x="0" y="82" xml:space="preserve">take 341 instead of 340.</tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="94" xml:space="preserve">MATH 375</tspan>
-            <tspan font-size="10" fill="black" y="94" xml:space="preserve"> also fulfills this requirement.</tspan>
-          </text>
-        </g>
-      </g>
-      <g id="Group_1373">
-        <g id="Graphic_1395">
-          <rect x="290" y="600" width="218" height="126" fill="#dec0ff"/>
-          <text transform="translate(300 605)" fill="black">
-            <tspan font-size="12" fill="black" x="0" y="12" xml:space="preserve">Probability or Statistics</tspan>
-          </text>
-        </g>
-        <g id="Group_1308">
-          <title>Course</title>
-          <g id="Graphic_1313">
-            <rect x="299" y="625" width="200" height="25" fill="white"/>
-            <rect x="299" y="625" width="200" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-          </g>
-          <g id="Graphic_1312">
-            <title>Number</title>
-            <text transform="translate(301 634.5)" fill="black">
-              <tspan font-weight="bold" font-size="12" fill="black" x="11.291498" y="12" xml:space="preserve">324</tspan>
-            </text>
-          </g>
-          <g id="Graphic_1311">
-            <title>Title</title>
-            <rect x="349" y="625" width="125" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(351 625.5)" fill="black">
-              <tspan font-size="10" fill="black" x="12.105114" y="10" xml:space="preserve">Introductory Applied </tspan>
-              <tspan font-size="10" fill="black" x="5.9261364" y="22" xml:space="preserve">Statistics for Engineers</tspan>
-            </text>
-          </g>
-          <g id="Graphic_1310">
-            <title>Credits</title>
-            <rect x="474" y="625" width="25" height="25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-            <text transform="translate(476 630)" fill="black">
-              <tspan font-size="12" fill="black" x="6.681818" y="12" xml:space="preserve">3</tspan>
-            </text>
-          </g>
-          <g id="Graphic_1309">
-            <text transform="translate(301 626.5)" fill="black">
-              <tspan font-size="8" fill="black" x="13.289773" y="8" xml:space="preserve">STAT</tspan>
-            </text>
-          </g>
-        </g>
-        <g id="Graphic_1314">
-          <text transform="translate(300 653)" fill="black">
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="10" xml:space="preserve">STAT/MATH 309</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="10" xml:space="preserve">STAT 311</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="10" xml:space="preserve">STAT 324</tspan>
-            <tspan font-size="10" fill="black" y="10" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="22" xml:space="preserve">MATH 331</tspan>
-            <tspan font-size="10" fill="black" y="22" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="22" xml:space="preserve">STAT 333</tspan>
-            <tspan font-size="10" fill="black" y="22" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="22" xml:space="preserve">STAT 340</tspan>
-            <tspan font-size="10" fill="black" y="22" xml:space="preserve"> Data </tspan>
-            <tspan font-size="10" fill="black" x="0" y="34" xml:space="preserve">Science Modeling II, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="34" xml:space="preserve">STAT 371</tspan>
-            <tspan font-size="10" fill="black" y="34" xml:space="preserve">, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="34" xml:space="preserve">STAT/</tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" x="0" y="46" xml:space="preserve">MATH 431</tspan>
-            <tspan font-size="10" fill="black" y="46" xml:space="preserve"> Introduction to the Theory of </tspan>
-            <tspan font-size="10" fill="black" x="0" y="58" xml:space="preserve">Probability, </tspan>
-            <tspan font-weight="bold" font-size="10" fill="black" y="58" xml:space="preserve">MATH 531</tspan>
-            <tspan font-size="10" fill="black" y="58" xml:space="preserve"> Probability Theory</tspan>
-          </text>
-        </g>
-      </g>
-      <g id="Graphic_1400">
-        <title>https://math.wisc.edu/undergraduate/wes/</title>
-        <text transform="translate(605 520)" fill="black">
-          <tspan font-size="8" fill="black" x="0" y="8" xml:space="preserve">while not an official prerequisite, prior familiarity </tspan>
-          <tspan font-size="8" fill="black" x="0" y="18" xml:space="preserve">with linear algebra is very helpful for CS 540</tspan>
-        </text>
       </g>
     </g>
   </g>
