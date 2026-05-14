@@ -28,9 +28,10 @@ About the courses:
   - Math majors usually say it's easy. I found it to be of medium difficulty, and was glad that I had the data-structures background from 300 before I took it.
   - This class is taught by the CS department in the fall, and the Math department in the spring. Both departments claim the offerings are identical, and the curriculums are now more aligned (but students still debate their comparative virtues).
   - ~~The official textbook is a Zybook, but~~ I found [*Discrete Mathematics: An Open Introduction*](http://discrete.openmathbooks.org/dmoi3.html) useful as well. See past teachings for the CS Dept's supplemental readings: [Beck Hasti '21](https://pages.cs.wisc.edu/~cs240-1/).
-- **CS 252** explores how computers work from the transistor up, and teaches a simulated "LC3" assembly language.
+- **CS 252** explores how computers work from the transistor up, and teaches a simulated "LC3" assembly language as well as RISC-V.
   - The textbook used is Patt and Patel's *Introduction to Computing Systems* (9780072467505).
   - Slides from past teachings of this course can be found online. See: [Ibrahim '17](https://pages.cs.wisc.edu/~adilgsm/cs252/Fall2017/)
+  - Some sections now teach in simulated RISC-V instead of LC3.
 - **CS 354** (my favorite) is a traditional intro systems course. In this class, you become intimately familiar with memory management and the processor, as well as C programming and reading x86-64 assembly.
   - The textbook is [*Computer Systems: A Programmer's Perspective* (3e)](https://csapp.cs.cmu.edu). [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language) is also listed as a supplemental text.
   - See these past semesters' materials for an idea of the topics covered: [Gerald '18](https://pages.cs.wisc.edu/~gerald/cs354/Spring18/), [Doescher '21](https://www.youtube.com/channel/UCnZQK7axg01G1b1v4xEQp9A)
@@ -67,4 +68,4 @@ During the semester, drop by the [Undergraduate Projects Lab (UPL)](https://www.
 
 ---
 
-<small>Created by [Michael Noguera](https://noguera.dev) as an unofficial resource for those going to SOAR. Created June 2022. Last updated September 2024.</small>
+<small>Created by [Michael Noguera](https://noguera.dev) as an unofficial resource for those going to SOAR. Created June 2022. Last updated May 2026.</small>
